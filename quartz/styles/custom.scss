@@ -22,3 +22,15 @@ h3 {
 p, li, td {
   font-size: 0.9rem;
 }
+
+// Tighter line spacing
+body {
+  line-height: 1.4;
+}
+
+table {
+  td, th {
+    padding: 0.4rem 0.6rem;
+    line-height: 1.3;
+  }
+}

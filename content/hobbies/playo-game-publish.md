@@ -10,13 +10,14 @@ tags: [badminton, playo, game-publish, hobbies, impetus]
 
 
 *Match Videos:*
-1️⃣ https://youtu.be/66s9N_EXmdk
-2️⃣ https://youtu.be/vn1Gr5w5fx8
-3️⃣ https://youtu.be/3fj3v3qRbG0
-4️⃣ https://youtu.be/4D9fhMldyms
-5️⃣ https://youtu.be/3DF0XIkNlrE
-6️⃣ https://youtu.be/qVbGgdu_d2Q
-7️⃣ https://youtu.be/ymlFCpQv1xk
+
+1. https://youtu.be/66s9N_EXmdk
+2. https://youtu.be/vn1Gr5w5fx8
+3. https://youtu.be/3fj3v3qRbG0
+4. https://youtu.be/4D9fhMldyms
+5. https://youtu.be/3DF0XIkNlrE
+6. https://youtu.be/qVbGgdu_d2Q
+7. https://youtu.be/ymlFCpQv1xk
 
 ℹ️ *Note:* All videos are *unlisted*
 🗓️ *Game Date:* 25th Jan 2025

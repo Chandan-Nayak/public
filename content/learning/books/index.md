@@ -3,8 +3,8 @@ title: Books
 tags: [books, reading]
 ---
 
-> [!info] 📊 Quick Stats
-> **132 total books** • 108 read • 17 skimmed • 3 in progress • 11 pending
+> [!tip] 📚 **132 Books**
+> ✅ **108** Read  |  📖 **17** Skimmed  |  🔄 **3** In Progress  |  ⏳ **11** Pending
 
 ## 📚 Categories
 

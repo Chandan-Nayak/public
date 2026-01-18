@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.gitattributes": true,
+    "**/.github": true,
+    "**/.node-version": true,
+    "**/.npmrc": true,
+    "**/.prettierignore": true,
+    "**/.prettierrc": true,
+    "**/.quartz-cache": true
+  },
+  "files.exclude.vscode": false,
+  "files.exclude.gitignore": false
+}

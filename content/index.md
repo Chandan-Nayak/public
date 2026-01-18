@@ -2,20 +2,47 @@
 title: Welcome
 ---
 
-# Welcome to My Notes
+# 👋 Welcome!
 
-This is my digital garden where I share my learning journey and ideas.
+I'm Chandan - exploring technology, business, and building things.
 
-## Explore
+> [!info] What You'll Find Here
+> A collection of notes from books I've read, things I'm learning, and projects I'm building.
 
-- [Learning](/learning) - Books, coffee, technology
-- [Hobbies](/hobbies) - Side projects and interests  
-- [Ideas](/ideas) - Thoughts and experiments
+## 🗂️ Explore
 
-## Start Here
+<details open>
+<summary><strong>📚 Learning</strong></summary>
 
-Use the search bar above or browse through the folders in the sidebar.
+- **[Books](/learning/books)** - 132 books on business, investments, science & more
+- **[Coffee](/learning/coffee)** - Notes on coffee and brewing
+- **[Technology](/learning)** - Software, systems, and architecture
+
+</details>
+
+<details>
+<summary><strong>🎯 Hobbies & Projects</strong></summary>
+
+- **[Projects](/hobbies)** - Side projects and experiments
+- Game publishing, web apps, and more
+
+</details>
+
+<details>
+<summary><strong>💡 Ideas</strong></summary>
+
+- **[Thoughts & Experiments](/ideas)** - Work in progress ideas
+
+</details>
 
 ---
 
-_Last updated: December 2025_
+## 🚀 Quick Links
+
+- 🔍 Use **search** above to find specific topics
+- 📂 Browse **sidebar** for organized content  
+- 🌙 Toggle **dark mode** for comfortable reading
+
+---
+
+> _This is a digital garden - content grows and evolves over time._

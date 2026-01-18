@@ -6,7 +6,7 @@ tags: [books, reading]
 > [!tip] 📚 **132 Books**
 > ✅ **108** Read  &nbsp;&nbsp;|&nbsp;&nbsp;  📖 **17** Skimmed  &nbsp;&nbsp;|&nbsp;&nbsp;  🔄 **3** In Progress  &nbsp;&nbsp;|&nbsp;&nbsp;  ⏳ **11** Pending
 
-## 📚 Categories
+## 🏷️ Categories
 
 <div class="category-badges">
   <a href="#unfinished" class="category-badge">📖 Unfinished (14)</a>

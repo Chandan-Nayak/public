@@ -4,7 +4,7 @@ tags: [books, reading]
 ---
 
 > [!tip] 📚 **132 Books**
-> ✅ **108** Read  |  📖 **17** Skimmed  |  🔄 **3** In Progress  |  ⏳ **11** Pending
+> ✅ **108** Read  &nbsp;&nbsp;|&nbsp;&nbsp;  📖 **17** Skimmed  &nbsp;&nbsp;|&nbsp;&nbsp;  🔄 **3** In Progress  &nbsp;&nbsp;|&nbsp;&nbsp;  ⏳ **11** Pending
 
 ## 📚 Categories
 

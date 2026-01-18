@@ -4,8 +4,6 @@ date: 2025-12-15
 tags: [books, reading]
 ---
 
-# 📚 Books
-
 > [!info] Quick Stats
 > - 🔄 In Progress: 3 books
 > - ⏳ Pending: 11 books  

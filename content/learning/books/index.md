@@ -3,7 +3,7 @@ title: Books
 tags: [books, reading]
 ---
 
-> [!tip] 📚 **132 Books**
+> [!tip] 📚 **132 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
 > ✅ **108** Read  &nbsp;&nbsp;|&nbsp;&nbsp;  📖 **17** Skimmed  &nbsp;&nbsp;|&nbsp;&nbsp;  🔄 **3** In Progress  &nbsp;&nbsp;|&nbsp;&nbsp;  ⏳ **11** Pending
 
 ## 🏷️ Categories

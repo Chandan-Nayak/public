@@ -1,6 +1,5 @@
 ---
 title: Books
-date: 2025-12-15
 tags: [books, reading]
 ---
 

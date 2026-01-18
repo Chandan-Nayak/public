@@ -6,8 +6,6 @@ tags: [books, reading]
 
 # 📚 Books
 
-**Total: 132** (108 READ | 17 SKIMMED | 3 IN-PROGRESS | 11 PENDING)
-
 > [!info] Quick Stats
 > - 🔄 In Progress: 3 books
 > - ⏳ Pending: 11 books  

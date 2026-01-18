@@ -95,3 +95,47 @@ blockquote[class*="callout"] {
   border-left: 3px solid var(--secondary);
   background: var(--highlight);
 }
+
+// Category badges styling
+.category-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.5rem 0;
+  
+  @media (max-width: 600px) {
+    gap: 0.4rem;
+  }
+}
+
+.category-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 0.9rem;
+  background-color: var(--highlight);
+  color: var(--secondary);
+  border: 1.5px solid var(--lightgray);
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  
+  &:hover {
+    background-color: var(--secondary);
+    color: var(--light);
+    border-color: var(--secondary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+  
+  @media (max-width: 600px) {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.85rem;
+  }
+}

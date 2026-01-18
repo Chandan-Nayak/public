@@ -8,11 +8,19 @@ tags: [books, reading]
 
 ## 📚 Categories
 
-Business (26) • Investments (22) • Biography (21) • Science (18) • Self-Help & Social (11) • Other (11) • Unfinished (14)
+<div class="category-badges">
+  <a href="#unfinished" class="category-badge">📖 Unfinished (14)</a>
+  <a href="#business" class="category-badge">💼 Business (26)</a>
+  <a href="#investments" class="category-badge">📈 Investments (22)</a>
+  <a href="#biography" class="category-badge">🎯 Biography (21)</a>
+  <a href="#science" class="category-badge">🔬 Science (18)</a>
+  <a href="#selfhelp" class="category-badge">🧠 Self-Help (11)</a>
+  <a href="#other" class="category-badge">📚 Other (11)</a>
+</div>
 
 ## 📖 By Category
 
-<details>
+<details id="unfinished">
 <summary><strong>📖 Unfinished (14 books)</strong></summary>
 
 ### In Progress (3)
@@ -35,7 +43,7 @@ Business (26) • Investments (22) • Biography (21) • Science (18) • Self-
 
 </details>
 
-<details>
+<details id="business">
 <summary><strong>💼 Business & Economics (26 books)</strong></summary>
 
 **READ (17):**
@@ -78,7 +86,7 @@ Business (26) • Investments (22) • Biography (21) • Science (18) • Self-
 
 </details>
 
-<details>
+<details id="investments">
 <summary><strong>📈 Investments (22 books)</strong></summary>
 
 **READ (17):**
@@ -110,7 +118,7 @@ Business (26) • Investments (22) • Biography (21) • Science (18) • Self-
 
 </details>
 
-<details>
+<details id="biography">
 <summary><strong>🎯 Autobiography & Biography (21 books)</strong></summary>
 
 **Autobiography - READ (11):**
@@ -147,7 +155,7 @@ Business (26) • Investments (22) • Biography (21) • Science (18) • Self-
 
 </details>
 
-<details>
+<details id="science">
 <summary><strong>🔬 Science (18 books)</strong></summary>
 
 **READ (11):**
@@ -172,7 +180,7 @@ Business (26) • Investments (22) • Biography (21) • Science (18) • Self-
 
 </details>
 
-<details>
+<details id="selfhelp">
 <summary><strong>🧠 Self-Help & Social Science (11 books)</strong></summary>
 
 **Self-Help - READ (5):**
@@ -192,7 +200,7 @@ Business (26) • Investments (22) • Biography (21) • Science (18) • Self-
 
 </details>
 
-<details>
+<details id="other">
 <summary><strong>📚 History, Computer Science & Other (11 books)</strong></summary>
 
 **History - READ (2):**

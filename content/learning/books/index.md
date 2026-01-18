@@ -3,12 +3,14 @@ title: Books
 tags: [books, reading]
 ---
 
-> [!info] Quick Stats
-> - 🔄 In Progress: 3 books
-> - ⏳ Pending: 11 books  
-> - ✅ Finished: 125 books (108 READ + 17 SKIMMED)
+> [!info] 📊 Quick Stats
+> **132 total books** • 108 read • 17 skimmed • 3 in progress • 11 pending
 
-## 📊 By Category
+## 📚 Categories
+
+Business (26) • Investments (22) • Biography (21) • Science (18) • Self-Help & Social (11) • Other (11) • Unfinished (14)
+
+## 📖 By Category
 
 <details>
 <summary><strong>📖 Unfinished (14 books)</strong></summary>
@@ -226,8 +228,25 @@ tags: [books, reading]
 
 ---
 
-## 🔍 Filter by Status
+<details>
+<summary><strong>🔍 Filter by Status</strong></summary>
 
-**IN-PROGRESS:** Engineered in India • Half - Lion • This Is How They Tell Me the World Ends
+**IN-PROGRESS (3):**
+- Engineered in India
+- Half - Lion  
+- This Is How They Tell Me the World Ends
 
-**PENDING:** Fooled by Randomness • Grand Transitions • Grinding It Out • If the Universe Is Teeming with Aliens WHERE IS EVERYBODY • Indica • Pale Blue Dot • The Fabric of Reality • The Golden Road • The Ride of a Lifetime • Thinking in Systems • When McKinsey Comes to Town
+**PENDING (11):**
+- Fooled by Randomness
+- Grand Transitions
+- Grinding It Out
+- If the Universe Is Teeming with Aliens WHERE IS EVERYBODY
+- Indica
+- Pale Blue Dot
+- The Fabric of Reality
+- The Golden Road
+- The Ride of a Lifetime
+- Thinking in Systems
+- When McKinsey Comes to Town
+
+</details>

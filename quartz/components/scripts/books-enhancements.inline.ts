@@ -131,6 +131,21 @@ const initBookSearch = () => {
       searchInput.value = ''
       performSearch()
       searchInput.blur()
+    } else if (e.key === 'Enter') {
+      // On Enter, navigate to the first visible result if any
+      const firstVisibleItem = document.querySelector('details ul li:not(.search-hidden)') as HTMLLIElement | null
+      if (!firstVisibleItem) return
+
+      e.preventDefault()
+
+      const firstVisibleLink = firstVisibleItem.querySelector('a') as HTMLAnchorElement | null
+      if (firstVisibleLink) {
+        firstVisibleLink.click()
+      } else {
+        firstVisibleItem.scrollIntoView({ behavior: 'smooth', block: 'center' })
+        firstVisibleItem.classList.add('search-focus')
+        setTimeout(() => firstVisibleItem.classList.remove('search-focus'), 800)
+      }
     }
   })
 }

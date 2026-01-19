@@ -488,7 +488,16 @@ blockquote[class*="callout"] {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  color: var(--dark);
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  background: rgba(94, 129, 172, 0.08);
+  border: 1px solid rgba(94, 129, 172, 0.15);
+  transition: all 0.2s ease;
+  
+  &:hover {
+    background: rgba(94, 129, 172, 0.12);
+    transform: translateY(-1px);
+  }
   
   strong {
     font-size: 1.1em;
@@ -499,8 +508,46 @@ blockquote[class*="callout"] {
   em {
     font-style: normal;
     font-size: 0.9em;
-    color: var(--gray);
-    font-weight: 500;
+    color: var(--secondary);
+    font-weight: 600;
+    opacity: 0.85;
+  }
+  
+  // Status-specific colored backgrounds
+  &:nth-child(1) { // Read
+    background: rgba(163, 190, 140, 0.1);
+    border-color: rgba(163, 190, 140, 0.2);
+    
+    &:hover {
+      background: rgba(163, 190, 140, 0.15);
+    }
+  }
+  
+  &:nth-child(3) { // Skimmed
+    background: rgba(136, 192, 208, 0.1);
+    border-color: rgba(136, 192, 208, 0.2);
+    
+    &:hover {
+      background: rgba(136, 192, 208, 0.15);
+    }
+  }
+  
+  &:nth-child(5) { // In Progress
+    background: rgba(216, 142, 67, 0.1);
+    border-color: rgba(216, 142, 67, 0.2);
+    
+    &:hover {
+      background: rgba(216, 142, 67, 0.15);
+    }
+  }
+  
+  &:nth-child(7) { // Pending
+    background: rgba(235, 203, 139, 0.1);
+    border-color: rgba(235, 203, 139, 0.2);
+    
+    &:hover {
+      background: rgba(235, 203, 139, 0.15);
+    }
   }
 }
 

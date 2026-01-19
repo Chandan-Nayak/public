@@ -4,16 +4,7 @@ tags: [books, reading]
 ---
 
 > [!tip] 📚 **111 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
-> 
-> <div class="book-stats-inline">
-  <span class="stat-item">✅ <strong>81</strong> Read <em>73%</em></span>
-  <span class="stat-divider">•</span>
-  <span class="stat-item">📖 <strong>16</strong> Skimmed <em>14%</em></span>
-  <span class="stat-divider">•</span>
-  <span class="stat-item">🔄 <strong>3</strong> In Progress <em>3%</em></span>
-  <span class="stat-divider">•</span>
-  <span class="stat-item">⏳ <strong>11</strong> Pending <em>10%</em></span>
-</div>
+> <div class="book-stats-inline"><span class="stat-item">✅ <strong>81</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>11</strong> Pending</span></div>
 
 ## 🏷️ Categories
 

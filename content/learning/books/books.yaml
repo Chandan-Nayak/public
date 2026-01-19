@@ -1,0 +1,534 @@
+# Books Database
+# Single source of truth for books/index.md
+# Edit this file, then run sync-books.py to regenerate index.md
+
+categories:
+  unfinished:
+    display: Unfinished
+    emoji: 📖
+    order: 1
+  business:
+    display: Business & Economics
+    emoji: 💼
+    order: 2
+  investments:
+    display: Investments
+    emoji: 📈
+    order: 3
+  biography:
+    display: Autobiography & Biography
+    emoji: 🎯
+    order: 4
+  science:
+    display: Science
+    emoji: 🔬
+    order: 5
+  selfhelp:
+    display: Self-Help & Social Science
+    emoji: 🧠
+    order: 6
+  other:
+    display: History, Computer Science & Other
+    emoji: 📚
+    order: 7
+
+# Books list
+books:
+  - title: Engineered in India
+    category: unfinished
+    status: in-progress
+    subcategory: Business & Economics
+
+  - title: Half - Lion
+    category: unfinished
+    status: in-progress
+    subcategory: Biography
+
+  - title: This Is How They Tell Me the World Ends
+    category: unfinished
+    status: in-progress
+    subcategory: Political Science
+
+  - title: Fooled by Randomness
+    category: unfinished
+    status: pending
+    subcategory: Investments
+
+  - title: Grand Transitions
+    category: unfinished
+    status: pending
+    subcategory: Science
+
+  - title: Grinding It Out
+    category: unfinished
+    status: pending
+    subcategory: Business & Economics
+
+  - title: If the Universe Is Teeming with Aliens WHERE IS EVERYBODY
+    category: unfinished
+    status: pending
+    subcategory: Science
+
+  - title: Indica
+    category: unfinished
+    status: pending
+    subcategory: History
+
+  - title: Pale Blue Dot
+    category: unfinished
+    status: pending
+    subcategory: Science
+
+  - title: The Fabric of Reality
+    category: unfinished
+    status: pending
+    subcategory: Science
+
+  - title: The Golden Road
+    category: unfinished
+    status: pending
+    subcategory: History
+
+  - title: The Ride of a Lifetime
+    category: unfinished
+    status: pending
+    subcategory: Autobiography
+
+  - title: Thinking in Systems
+    category: unfinished
+    status: pending
+    subcategory: Science
+
+  - title: When McKinsey Comes to Town
+    category: unfinished
+    status: pending
+    subcategory: Business & Economics
+
+  - title: Alibaba
+    category: business
+    status: read
+
+  - title: Big Billion Startup
+    category: business
+    status: read
+
+  - title: Blitzscaling
+    category: business
+    status: read
+
+  - title: Capitalism without Capital
+    category: business
+    status: read
+
+  - title: Competition Demystified
+    category: business
+    status: read
+
+  - title: HDFC Bank 20
+    category: business
+    status: read
+
+  - title: How Big Things Get Done
+    category: business
+    status: read
+
+  - title: Loonshots
+    category: business
+    status: read
+
+  - title: Material World
+    category: business
+    status: read
+
+  - title: No Rules Rules
+    category: business
+    status: read
+
+  - title: Reset
+    category: business
+    status: read
+
+  - title: Romancing the Balance Sheet
+    category: business
+    status: read
+
+  - title: Skin in the Game
+    category: business
+    status: read
+
+  - title: Talking to My Daughter
+    category: business
+    status: read
+
+  - title: Tao of Charlie Munger
+    category: business
+    status: read
+
+  - title: The Goal
+    category: business
+    status: read
+
+  - title: The Hard Thing About Hard Things
+    category: business
+    status: read
+
+  - title: The Myth of Capitalism
+    category: business
+    status: read
+
+  - title: The Nvidia Way
+    category: business
+    status: read
+
+  - title: The Tata Group
+    category: business
+    status: read
+
+  - title: The Value of Debt in Building Wealth
+    category: business
+    status: read
+
+  - title: Think Again
+    category: business
+    status: read
+
+  - title: Think Like a Rocket Scientist
+    category: business
+    status: read
+
+  - title: Thinking in Bets
+    category: business
+    status: read
+
+  - title: What I Learned About Investing from Darwin
+    category: business
+    status: read
+
+  - title: Zero to One
+    category: business
+    status: read
+
+  - title: Bezonomics
+    category: business
+    status: skimmed
+
+  - title: Damn Right!
+    category: business
+    status: skimmed
+
+  - title: Good to Great
+    category: business
+    status: skimmed
+
+  - title: 100 to 1 in the Stock Market
+    category: investments
+    status: read
+
+  - title: A Wealth of Common Sense
+    category: investments
+    status: read
+
+  - title: Bulls Bears and Other Beasts
+    category: investments
+    status: read
+
+  - title: Common Stocks and Uncommon Profits
+    category: investments
+    status: read
+
+  - title: Just Keep Buying
+    category: investments
+    status: read
+
+  - title: Let's Talk Money
+    category: investments
+    status: read
+
+  - title: One Up On Wall Street
+    category: investments
+    status: read
+
+  - title: Richer Wiser Happier
+    category: investments
+    status: read
+
+  - title: The Dhandho Investor
+    category: investments
+    status: read
+
+  - title: The Little Book That Builds Wealth
+    category: investments
+    status: read
+
+  - title: The Little Book That Still Beats the Market
+    category: investments
+    status: read
+
+  - title: The Power Law
+    category: investments
+    status: read
+
+  - title: The Psychology of Money
+    category: investments
+    status: read
+
+  - title: The Richest Man in Babylon
+    category: investments
+    status: read
+
+  - title: The Unusual Billionaires
+    category: investments
+    status: read
+
+  - title: Warren Buffett Speaks
+    category: investments
+    status: read
+
+  - title: Coffee Can Investing
+    category: investments
+    status: skimmed
+
+  - title: MONEY Master the Game
+    category: investments
+    status: skimmed
+
+  - title: Money Wise
+    category: investments
+    status: skimmed
+
+  - title: More Than You Know
+    category: investments
+    status: skimmed
+
+  - title: HOW I QUIT GOOGLE TO SELL SAMOSAS
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: IWoz
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: Losing My Virginity
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: My Journey as the Wrong Man at the Right Time
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: Open An Autobiography
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: Shoe Dog
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: The Autobiography of Benjamin Franklin
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: The Biography of a Failed Venture
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: The Making of Hero
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: The Money Trap
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: The Z Factor
+    category: biography
+    status: read
+    subcategory: Autobiography
+
+  - title: The Ambuja Story
+    category: biography
+    status: skimmed
+    subcategory: Autobiography
+
+  - title: Think Lead Strategize Like Kumar Mangalam Birla
+    category: biography
+    status: skimmed
+    subcategory: Autobiography
+
+  - title: Elon Musk
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: Gambling Man
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: Google Speaks
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: Samsung Rising
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: TITAN
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: Trillion Dollar Coach
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: Who Says Elephants Can't Dance
+    category: biography
+    status: read
+    subcategory: Biography
+
+  - title: Factfulness
+    category: science
+    status: read
+
+  - title: How to Avoid a Climate Disaster
+    category: science
+    status: read
+
+  - title: Life on the Edge
+    category: science
+    status: read
+
+  - title: Scale
+    category: science
+    status: read
+
+  - title: The Code Breaker
+    category: science
+    status: read
+
+  - title: What a Wonderful World
+    category: science
+    status: read
+
+  - title: Why We Sleep
+    category: science
+    status: read
+
+  - title: The Brain
+    category: science
+    status: skimmed
+
+  - title: The Magic of Reality
+    category: science
+    status: skimmed
+
+  - title: Atomic Habits
+    category: selfhelp
+    status: read
+    subcategory: Self-Help
+    note_link: atomic-habits
+
+  - title: How to Take Smart Notes
+    category: selfhelp
+    status: read
+    subcategory: Self-Help
+
+  - title: Range
+    category: selfhelp
+    status: read
+    subcategory: Self-Help
+
+  - title: Same as Ever
+    category: selfhelp
+    status: read
+    subcategory: Self-Help
+
+  - title: The Talent Code
+    category: selfhelp
+    status: read
+    subcategory: Self-Help
+
+  - title: Advantage India
+    category: selfhelp
+    status: read
+    subcategory: Social Science
+
+  - title: Hooked
+    category: selfhelp
+    status: read
+    subcategory: Social Science
+
+  - title: Superforecasting
+    category: selfhelp
+    status: read
+    subcategory: Social Science
+
+  - title: The Molecule of More
+    category: selfhelp
+    status: skimmed
+    subcategory: Social Science
+
+  - title: Land of seven rivers
+    category: other
+    status: read
+    subcategory: History
+
+  - title: Sapiens
+    category: other
+    status: read
+    subcategory: History
+
+  - title: An Era of Darkness
+    category: other
+    status: skimmed
+    subcategory: History
+
+  - title: Artificial Intelligence and The Future of Power
+    category: other
+    status: skimmed
+    subcategory: Computer Science
+
+  - title: The AI Factor
+    category: other
+    status: skimmed
+    subcategory: Computer Science
+
+  - title: Exercised
+    category: other
+    status: read
+    subcategory: Health & Fitness
+
+  - title: Outlive
+    category: other
+    status: read
+    subcategory: Health & Fitness
+
+  - title: Masala Lab
+    category: other
+    status: read
+    subcategory: Other
+
+  - title: Where Does Money Come From
+    category: other
+    status: read
+    subcategory: Other
+
+  - title: India Grows At Night
+    category: other
+    status: skimmed
+    subcategory: Literary
+

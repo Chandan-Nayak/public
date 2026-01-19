@@ -7,6 +7,8 @@ import spaRouterScript from "../../components/scripts/spa.inline"
 import popoverScript from "../../components/scripts/popover.inline"
 // @ts-ignore
 import expandDetailsScript from "../../components/scripts/expand-details.inline"
+// @ts-ignore
+import booksEnhancementsScript from "../../components/scripts/books-enhancements.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -83,6 +85,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
 
   // expand details on anchor navigation
   componentResources.afterDOMLoaded.push(expandDetailsScript)
+  
+  // books page enhancements (back to top button and color coding)
+  componentResources.afterDOMLoaded.push(booksEnhancementsScript)
 
   // popovers
   if (cfg.enablePopovers) {

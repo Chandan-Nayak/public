@@ -50,13 +50,14 @@ table {
 
 // Better details/summary styling for collapsible sections
 details {
-  margin: 1rem 0;
+  margin: 1.5rem 0; // Increased spacing between categories
   padding: 0.5rem 0;
   border-bottom: 1px solid var(--lightgray);
   
   summary {
     cursor: pointer;
     padding: 0.5rem 0;
+    font-size: 1.05rem;
     font-weight: 600;
     list-style: none;
     
@@ -70,21 +71,321 @@ details {
       transition: transform 0.2s;
     }
     
-    &:hover {
-      color: var(--secondary);
-    }
   }
   
   &[open] summary::before {
     transform: rotate(90deg);
   }
   
-  // Compact list spacing inside details
+  // Compact list spacing inside details with enhancements
   ul, ol {
     margin-top: 0.5rem;
+    
     li {
       margin-bottom: 0.3rem;
+      padding: 0.4rem 0.6rem;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      
+      // Hover effect on book titles
+      &:hover {
+        background-color: rgba(94, 129, 172, 0.15) !important;
+        transform: translateX(4px);
+        cursor: pointer;
+      }
+      
+      // Zebra striping with more distinct colors
+      &:nth-child(even) {
+        background: linear-gradient(
+          to right,
+          rgba(94, 129, 172, 0.08) 0%,
+          rgba(94, 129, 172, 0.12) 50%,
+          rgba(94, 129, 172, 0.08) 100%
+        );
+        border-left: 3px solid rgba(94, 129, 172, 0.2);
+      }
+      
+      &:nth-child(odd) {
+        background: linear-gradient(
+          to right,
+          rgba(136, 192, 208, 0.05) 0%,
+          rgba(136, 192, 208, 0.08) 50%,
+          rgba(136, 192, 208, 0.05) 100%
+        );
+        border-left: 3px solid rgba(136, 192, 208, 0.15);
+      }
     }
+  }
+}
+
+// Styled horizontal line separator
+hr {
+  margin: 2rem 0;
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, 
+    transparent, 
+    var(--secondary) 20%, 
+    var(--secondary) 80%, 
+    transparent
+  );
+  opacity: 0.6;
+}
+
+// Color-coded book status sections (applied via JavaScript)
+details ul li {
+  // READ sections - enhanced green gradient
+  &.status-read {
+    background: linear-gradient(
+      to right,
+      rgba(163, 190, 140, 0.12) 0%,
+      rgba(163, 190, 140, 0.18) 50%,
+      rgba(163, 190, 140, 0.12) 100%
+    ) !important;
+    border-left: 4px solid rgba(163, 190, 140, 0.5);
+    
+    &.even {
+      background: linear-gradient(
+        to right,
+        rgba(163, 190, 140, 0.18) 0%,
+        rgba(163, 190, 140, 0.24) 50%,
+        rgba(163, 190, 140, 0.18) 100%
+      ) !important;
+      border-left-color: rgba(163, 190, 140, 0.6);
+    }
+  }
+  
+  // SKIMMED sections - enhanced blue gradient
+  &.status-skimmed {
+    background: linear-gradient(
+      to right,
+      rgba(136, 192, 208, 0.12) 0%,
+      rgba(136, 192, 208, 0.18) 50%,
+      rgba(136, 192, 208, 0.12) 100%
+    ) !important;
+    border-left: 4px solid rgba(136, 192, 208, 0.5);
+    
+    &.even {
+      background: linear-gradient(
+        to right,
+        rgba(136, 192, 208, 0.18) 0%,
+        rgba(136, 192, 208, 0.24) 50%,
+        rgba(136, 192, 208, 0.18) 100%
+      ) !important;
+      border-left-color: rgba(136, 192, 208, 0.6);
+    }
+  }
+  
+  // PENDING sections - enhanced yellow gradient
+  &.status-pending {
+    background: linear-gradient(
+      to right,
+      rgba(235, 203, 139, 0.12) 0%,
+      rgba(235, 203, 139, 0.18) 50%,
+      rgba(235, 203, 139, 0.12) 100%
+    ) !important;
+    border-left: 4px solid rgba(235, 203, 139, 0.5);
+    
+    &.even {
+      background: linear-gradient(
+        to right,
+        rgba(235, 203, 139, 0.18) 0%,
+        rgba(235, 203, 139, 0.24) 50%,
+        rgba(235, 203, 139, 0.18) 100%
+      ) !important;
+      border-left-color: rgba(235, 203, 139, 0.6);
+    }
+  }
+  
+  // IN-PROGRESS sections - enhanced orange gradient
+  &.status-inprogress {
+    background: linear-gradient(
+      to right,
+      rgba(216, 142, 67, 0.15) 0%,
+      rgba(216, 142, 67, 0.22) 50%,
+      rgba(216, 142, 67, 0.15) 100%
+    ) !important;
+    border-left: 4px solid rgba(216, 142, 67, 0.6);
+    
+    &.even {
+      background: linear-gradient(
+        to right,
+        rgba(216, 142, 67, 0.22) 0%,
+        rgba(216, 142, 67, 0.28) 50%,
+        rgba(216, 142, 67, 0.22) 100%
+      ) !important;
+      border-left-color: rgba(216, 142, 67, 0.7);
+    }
+  }
+}
+
+// Book search bar styling
+.book-search-container {
+  margin: 0.5rem 0 2rem 0;
+  position: relative;
+  width: 100%;
+  
+  input#book-search {
+    width: 100%;
+    padding: 0.85rem 2.5rem 0.85rem 3rem;
+    font-size: 1rem;
+    border: 2px solid var(--lightgray);
+    border-radius: 10px;
+    background: var(--light);
+    color: var(--dark);
+    transition: all 0.3s ease;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    font-family: inherit;
+    box-sizing: border-box;
+    
+    &::placeholder {
+      color: var(--gray);
+      opacity: 0.6;
+      font-size: 0.95rem;
+    }
+    
+    
+    &:focus {
+      border-color: var(--secondary);
+      box-shadow: 0 4px 16px rgba(94, 129, 172, 0.15);
+      background: var(--light);
+    }
+  }
+  
+  // Search icon (using ::before pseudo-element)
+  &::before {
+    content: "🔍";
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    pointer-events: none;
+    opacity: 0.5;
+  }
+  
+  .search-results-count {
+    position: absolute;
+    right: 1.2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.9rem;
+    color: var(--secondary);
+    font-weight: 600;
+    pointer-events: none;
+    background: rgba(94, 129, 172, 0.08);
+    padding: 0.3rem 0.7rem;
+    border-radius: 12px;
+  }
+}
+
+// Hide books that don't match search
+details ul li.search-hidden {
+  display: none;
+}
+
+// Highlight search matches
+details ul li mark.search-highlight {
+  background-color: rgba(235, 203, 139, 0.4);
+  padding: 0.1rem 0.2rem;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+// Smooth scrolling for the entire page
+html {
+  scroll-behavior: smooth;
+}
+
+// Back to top button
+#back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 3rem;
+  height: 3rem;
+  background-color: var(--secondary);
+  color: var(--light);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.5rem;
+  line-height: 3rem;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 1000;
+  
+  &.visible {
+    opacity: 0.9;
+    visibility: visible;
+  }
+  
+  &:hover {
+    opacity: 1;
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  &:active {
+    transform: translateY(-2px);
+  }
+}
+
+// Dark mode adjustments
+.darkmode {
+  details ul li {
+    // Adjust zebra striping for dark mode
+    &:nth-child(even) {
+      background-color: rgba(255, 255, 255, 0.05);
+    }
+    
+  }
+  
+  // Search bar dark mode
+  .book-search-container {
+    input#book-search {
+      background: rgba(255, 255, 255, 0.05);
+      border-color: rgba(255, 255, 255, 0.1);
+      color: var(--light);
+      
+      &:hover {
+        border-color: var(--secondary);
+        background: rgba(255, 255, 255, 0.08);
+      }
+      
+      &:focus {
+        background: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 4px 16px rgba(129, 161, 193, 0.2);
+      }
+    }
+    
+    &::before {
+      opacity: 0.5;
+    }
+    
+    .search-results-count {
+      background: rgba(129, 161, 193, 0.15);
+      color: var(--secondary);
+    }
+  }
+  
+  // Styled horizontal line for dark mode
+  hr {
+    background: linear-gradient(to right, 
+      transparent, 
+      rgba(129, 161, 193, 0.6) 20%, 
+      rgba(129, 161, 193, 0.6) 80%, 
+      transparent
+    );
+  }
+  
+  #back-to-top {
+    background-color: var(--secondary);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   }
 }
 
@@ -111,31 +412,105 @@ blockquote[class*="callout"] {
 .category-badge {
   display: inline-flex;
   align-items: center;
-  padding: 0.5rem 0.9rem;
-  background-color: var(--highlight);
-  color: var(--secondary);
-  border: 1.5px solid var(--lightgray);
+  padding: 0.6rem 1rem;
   border-radius: 20px;
   font-size: 0.9rem;
   font-weight: 600;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
+  border: 2px solid transparent;
+  position: relative;
+  overflow: hidden;
+  
+  // Default style
+  background-color: var(--highlight);
+  color: var(--secondary);
+  border-color: var(--secondary);
+  
+  // Animated background effect
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: var(--secondary);
+    transform: translate(-50%, -50%);
+    transition: width 0.4s ease, height 0.4s ease;
+    z-index: -1;
+    opacity: 0.15;
+  }
   
   &:hover {
     background-color: var(--secondary);
     color: var(--light);
     border-color: var(--secondary);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 16px rgba(94, 129, 172, 0.3), 0 0 20px rgba(94, 129, 172, 0.15);
+    
+    &::before {
+      width: 300px;
+      height: 300px;
+    }
   }
   
   &:active {
-    transform: translateY(0);
+    transform: translateY(-1px) scale(1.02);
+    transition: all 0.1s ease;
   }
   
   @media (max-width: 600px) {
-    padding: 0.4rem 0.7rem;
+    padding: 0.5rem 0.8rem;
     font-size: 0.85rem;
   }
+}
+
+// Book stats inline (single line with separators)
+.book-stats-inline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  
+  @media (max-width: 600px) {
+    font-size: 0.85rem;
+    gap: 0.4rem;
+  }
+}
+
+.stat-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: var(--dark);
+  
+  strong {
+    font-size: 1.1em;
+    color: var(--secondary);
+    font-weight: 700;
+  }
+  
+  em {
+    font-style: normal;
+    font-size: 0.9em;
+    color: var(--gray);
+    font-weight: 500;
+  }
+}
+
+.stat-divider {
+  color: var(--lightgray);
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+// Hide automatic file listing on books page
+body[data-slug="learning/books/index"] .page-listing {
+  display: none !important;
 }

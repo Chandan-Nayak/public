@@ -530,3 +530,8 @@ books:
   status: read
   subcategory: Social Science
   note_link: the-quantum-rules
+- title: The Kill Chain
+  category: science
+  status: pending
+  subcategory: military
+  note_link: the-kill-chain

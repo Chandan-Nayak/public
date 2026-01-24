@@ -8,6 +8,7 @@ import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
+import { getTagColor } from "../../util/tagColor"
 
 interface TagContentOptions {
   sort?: SortFn
@@ -80,7 +81,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
               return (
                 <div>
                   <h2>
-                    <a class="internal tag-link" href={href}>
+                    <a
+                      class="internal tag-link"
+                      href={href}
+                      style={getTagColor(tag)}
+                    >
                       {tag}
                     </a>
                   </h2>

@@ -1,6 +1,7 @@
 import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { getTagStyle, sanitizeTagForClass } from "../util/tagColor"
 
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const tags = fileData.frontmatter?.tags
@@ -9,9 +10,15 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
       <ul class={classNames(displayClass, "tags")}>
         {tags.map((tag) => {
           const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
+          const tagClass = `tag-${sanitizeTagForClass(tag)}`
+          const tagStyle = getTagStyle(tag)
           return (
             <li>
-              <a href={linkDest} class="internal tag-link">
+              <a
+                href={linkDest}
+                class={`internal tag-link ${tagClass}`}
+                style={tagStyle}
+              >
                 {tag}
               </a>
             </li>
@@ -46,10 +53,12 @@ TagList.css = `
 }
 
 a.internal.tag-link {
-  border-radius: 8px;
-  background-color: var(--highlight);
-  padding: 0.2rem 0.4rem;
-  margin: 0 0.1rem;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+a.internal.tag-link::before {
+  content: "#";
 }
 `
 

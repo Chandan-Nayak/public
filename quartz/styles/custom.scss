@@ -564,18 +564,17 @@ body[data-slug="learning/books/index"] .page-listing {
 
 // Book tags styling (hashtags)
 .book-tag {
-  color: #888 !important;  // Neutral gray instead of theme color
-  font-size: 0.7rem !important;
-  font-weight: 300 !important;
-  opacity: 0.5;
-  margin-left: 0.4rem;
-  pointer-events: none; // Make tags non-clickable
-  user-select: none;
-  font-style: italic;  // Italic for distinction
+  color: #888;
+  font-weight: 400;
+  cursor: default;
+  font-size: 0.9em;
+  opacity: 0.7;
+  margin-right: 0.5rem;
+  display: inline-block;
+  font-style: italic;
   
-  &:hover {
-    opacity: 0.5; // Don't change on hover
-    background-color: transparent !important;
-    transform: none !important;
+  // Add hashtag symbol before content
+  &::before {
+    content: '#';
   }
 }

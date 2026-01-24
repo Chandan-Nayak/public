@@ -61,6 +61,12 @@ export function pageResources(
     contentType: "external",
   })
 
+  resources.js.push({
+    src: joinSegments(baseDir, "static/colorBookTags.js"),
+    loadTime: "afterDOMReady",
+    contentType: "external",
+  })
+
   return resources
 }
 

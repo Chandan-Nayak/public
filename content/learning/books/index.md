@@ -4,12 +4,12 @@ tags: [books, reading]
 ---
 
 > [!tip] 📚 **113 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
-> <div class="book-stats-inline"><span class="stat-item">✅ <strong>82</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>12</strong> Pending</span></div>
+> <div class="book-stats-inline"><span class="stat-item">✅ <strong>83</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>11</strong> Pending</span></div>
 
 ## 🏷️ Categories
 
 <div class="category-badges">
-  <a href="#unfinished" class="category-badge" data-no-popover="true">📖 Unfinished (15)</a>
+  <a href="#unfinished" class="category-badge" data-no-popover="true">📖 Unfinished (14)</a>
   <a href="#business" class="category-badge" data-no-popover="true">💼 Business & Economics (29)</a>
   <a href="#investments" class="category-badge" data-no-popover="true">📈 Investments (20)</a>
   <a href="#biography" class="category-badge" data-no-popover="true">🎯 Autobiography & Biography (20)</a>
@@ -26,25 +26,24 @@ tags: [books, reading]
 </div>
 
 <details id="unfinished">
-<summary><strong>📖 Unfinished (15 books)</strong></summary>
+<summary><strong>📖 Unfinished (14 books)</strong></summary>
 
 ### In Progress (3)
-- [Engineered in India](engineered-in-india)
-- [Half - Lion](half-lion)
-- [This Is How They Tell Me the World Ends](this-is-how-they-tell-me-the-world-ends)
+- [The Golden Road](the-golden-road)
+- [The Kill Chain](the-kill-chain)
+- [The Ride of a Lifetime](the-ride-of-a-lifetime)
 
-### Pending (12)
+### Pending (11)
+- [Engineered in India](engineered-in-india)
 - [Fooled by Randomness](fooled-by-randomness)
 - [Grand Transitions](grand-transitions)
-- [Grinding It Out](grinding-it-out)
+- [Half - Lion](half-lion)
 - [If the Universe Is Teeming with Aliens WHERE IS EVERYBODY](if-the-universe-is-teeming-with-aliens-where-is-everybody)
 - [Indica](indica)
 - [Pale Blue Dot](pale-blue-dot)
 - [The Fabric of Reality](the-fabric-of-reality)
-- [The Golden Road](the-golden-road)
-- [The Kill Chain](the-kill-chain)
-- [The Ride of a Lifetime](the-ride-of-a-lifetime)
 - [Thinking in Systems](thinking-in-systems)
+- [This Is How They Tell Me the World Ends](this-is-how-they-tell-me-the-world-ends)
 - [When McKinsey Comes to Town](when-mckinsey-comes-to-town)
 
 </details>
@@ -58,10 +57,10 @@ tags: [books, reading]
 - [Blitzscaling](blitzscaling)
 - [Capitalism without Capital](capitalism-without-capital)
 - [Competition Demystified](competition-demystified)
+- [Grinding It Out](grinding-it-out)
 - [HDFC Bank 20](hdfc-bank-20)
 - [How Big Things Get Done](how-big-things-get-done)
 - [Loonshots](loonshots)
-- [Material World](material-world)
 - [No Rules Rules](no-rules-rules)
 - [Reset](reset)
 - [Romancing the Balance Sheet](romancing-the-balance-sheet)
@@ -150,12 +149,13 @@ tags: [books, reading]
 </details>
 
 <details id="science">
-<summary data-no-popover="true"><strong>🔬 Science (11 books)</strong></summary>
+<summary data-no-popover="true"><strong>🔬 Science (12 books)</strong></summary>
 
-**READ (7):**
+**READ (8):**
 - [Factfulness](factfulness)
 - [How to Avoid a Climate Disaster](how-to-avoid-a-climate-disaster)
 - [Life on the Edge](life-on-the-edge)
+- [Material World](material-world)
 - [Scale](scale)
 - [The Code Breaker](the-code-breaker)
 - [What a Wonderful World](what-a-wonderful-world)
@@ -165,16 +165,19 @@ tags: [books, reading]
 - [The Brain](the-brain)
 - [The Magic of Reality](the-magic-of-reality)
 
-**Military - PENDING (1):**
-- [The Kill Chain](the-kill-chain)
-
 **Social Science - READ (1):**
 - [The Quantum Rules](the-quantum-rules)
+
+**Technology - IN-PROGRESS (1):**
+- [The Kill Chain](the-kill-chain) _(secondary)_
 
 </details>
 
 <details id="selfhelp">
-<summary data-no-popover="true"><strong>🧠 Self-Help & Social Science (9 books)</strong></summary>
+<summary data-no-popover="true"><strong>🧠 Self-Help & Social Science (10 books)</strong></summary>
+
+**READ (1):**
+- [Skin in the Game](skin-in-the-game) _(secondary)_
 
 **Self-Help - READ (5):**
 - [Atomic Habits](atomic-habits)

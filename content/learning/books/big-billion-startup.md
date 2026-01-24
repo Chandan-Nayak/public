@@ -2,6 +2,8 @@
 title: Big Billion Startup
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /big-billion-startup
 ---
 
 # Big Billion Startup

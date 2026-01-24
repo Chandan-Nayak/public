@@ -2,6 +2,8 @@
 title: HDFC Bank 20
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /hdfc-bank-20
 ---
 
 # HDFC Bank 20

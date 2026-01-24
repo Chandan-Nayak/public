@@ -2,6 +2,8 @@
 title: Common Stocks and Uncommon Profits
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /common-stocks-and-uncommon-profits
 ---
 
 # Common Stocks and Uncommon Profits

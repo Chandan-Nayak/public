@@ -2,6 +2,8 @@
 title: MONEY Master the Game
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /money-master-the-game
 ---
 
 # MONEY Master the Game

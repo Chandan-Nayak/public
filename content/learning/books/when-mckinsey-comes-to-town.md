@@ -2,6 +2,8 @@
 title: When McKinsey Comes to Town
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /when-mckinsey-comes-to-town
 ---
 
 # When McKinsey Comes to Town

@@ -561,3 +561,21 @@ blockquote[class*="callout"] {
 body[data-slug="learning/books/index"] .page-listing {
   display: none !important;
 }
+
+// Book tags styling (hashtags)
+.book-tag {
+  color: #888 !important;  // Neutral gray instead of theme color
+  font-size: 0.7rem !important;
+  font-weight: 300 !important;
+  opacity: 0.5;
+  margin-left: 0.4rem;
+  pointer-events: none; // Make tags non-clickable
+  user-select: none;
+  font-style: italic;  // Italic for distinction
+  
+  &:hover {
+    opacity: 0.5; // Don't change on hover
+    background-color: transparent !important;
+    transform: none !important;
+  }
+}

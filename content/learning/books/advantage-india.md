@@ -2,6 +2,8 @@
 title: Advantage India
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /advantage-india
 ---
 
 # Advantage India

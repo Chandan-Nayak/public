@@ -2,6 +2,8 @@
 title: Losing My Virginity
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /losing-my-virginity
 ---
 
 # Losing My Virginity

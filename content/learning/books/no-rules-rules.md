@@ -2,6 +2,8 @@
 title: No Rules Rules
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /no-rules-rules
 ---
 
 # No Rules Rules

@@ -2,6 +2,8 @@
 title: The Fabric of Reality
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-fabric-of-reality
 ---
 
 # The Fabric of Reality

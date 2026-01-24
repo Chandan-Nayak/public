@@ -2,6 +2,8 @@
 title: Designing Data-Intensive Applications
 date: 2025-09-20
 tags: [books, distributed-systems, databases, architecture]
+aliases:
+  - /designing-data-intensive-applications
 ---
 
 # Designing Data-Intensive Applications

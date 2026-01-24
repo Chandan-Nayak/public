@@ -2,6 +2,8 @@
 title: The Ambuja Story
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-ambuja-story
 ---
 
 # The Ambuja Story

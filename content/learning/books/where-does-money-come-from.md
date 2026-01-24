@@ -2,6 +2,8 @@
 title: Where Does Money Come From
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /where-does-money-come-from
 ---
 
 # Where Does Money Come From

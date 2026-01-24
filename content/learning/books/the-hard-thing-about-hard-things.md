@@ -2,6 +2,8 @@
 title: The Hard Thing About Hard Things
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-hard-thing-about-hard-things
 ---
 
 # The Hard Thing About Hard Things

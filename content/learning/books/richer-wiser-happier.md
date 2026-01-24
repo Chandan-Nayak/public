@@ -2,6 +2,8 @@
 title: Richer Wiser Happier
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /richer-wiser-happier
 ---
 
 # Richer Wiser Happier

@@ -2,6 +2,8 @@
 title: Warren Buffett Speaks
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /warren-buffett-speaks
 ---
 
 # Warren Buffett Speaks

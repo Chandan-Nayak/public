@@ -2,6 +2,8 @@
 title: Bulls Bears and Other Beasts
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /bulls-bears-and-other-beasts
 ---
 
 # Bulls Bears and Other Beasts

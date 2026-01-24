@@ -2,6 +2,8 @@
 title: The Little Book That Still Beats the Market
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-little-book-that-still-beats-the-market
 ---
 
 # The Little Book That Still Beats the Market

@@ -2,6 +2,8 @@
 title: Fooled by Randomness
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /fooled-by-randomness
 ---
 
 # Fooled by Randomness

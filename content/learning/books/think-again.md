@@ -2,6 +2,8 @@
 title: Think Again
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /think-again
 ---
 
 # Think Again

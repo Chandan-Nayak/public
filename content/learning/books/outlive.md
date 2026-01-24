@@ -2,6 +2,8 @@
 title: Outlive
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /outlive
 ---
 
 # Outlive

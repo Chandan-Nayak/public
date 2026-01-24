@@ -2,6 +2,8 @@
 title: Thinking in Systems
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /thinking-in-systems
 ---
 
 # Thinking in Systems

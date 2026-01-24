@@ -2,6 +2,8 @@
 title: Think Lead Strategize Like Kumar Mangalam Birla
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /think-lead-strategize-like-kumar-mangalam-birla
 ---
 
 # Think Lead Strategize Like Kumar Mangalam Birla

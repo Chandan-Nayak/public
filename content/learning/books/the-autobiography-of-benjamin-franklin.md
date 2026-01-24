@@ -2,6 +2,8 @@
 title: The Autobiography of Benjamin Franklin
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-autobiography-of-benjamin-franklin
 ---
 
 # The Autobiography of Benjamin Franklin

@@ -2,6 +2,8 @@
 title: Half - Lion
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /half-lion
 ---
 
 # Half - Lion

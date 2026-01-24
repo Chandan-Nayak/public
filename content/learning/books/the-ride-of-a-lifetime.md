@@ -2,6 +2,8 @@
 title: The Ride of a Lifetime
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-ride-of-a-lifetime
 ---
 
 # The Ride of a Lifetime

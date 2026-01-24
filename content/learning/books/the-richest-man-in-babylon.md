@@ -2,6 +2,8 @@
 title: The Richest Man in Babylon
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-richest-man-in-babylon
 ---
 
 # The Richest Man in Babylon

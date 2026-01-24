@@ -2,6 +2,8 @@
 title: Why We Sleep
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /why-we-sleep
 ---
 
 # Why We Sleep

@@ -2,6 +2,8 @@
 title: The Goal
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-goal
 ---
 
 # The Goal

@@ -2,6 +2,8 @@
 title: The Kill Chain
 date: 2026-01-24
 tags: [books, military, technology, defense]
+aliases:
+  - /the-kill-chain
 ---
 
 # The Kill Chain

@@ -2,6 +2,8 @@
 title: More Than You Know
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /more-than-you-know
 ---
 
 # More Than You Know

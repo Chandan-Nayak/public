@@ -2,6 +2,8 @@
 title: The Quantum Rules
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-quantum-rules
 ---
 
 # The Quantum Rules

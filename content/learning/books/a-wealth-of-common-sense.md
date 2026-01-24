@@ -2,6 +2,8 @@
 title: A Wealth of Common Sense
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /a-wealth-of-common-sense
 ---
 
 # A Wealth of Common Sense

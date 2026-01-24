@@ -2,6 +2,8 @@
 title: 100 to 1 in the Stock Market
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /100-to-1-in-the-stock-market
 ---
 
 # 100 to 1 in the Stock Market

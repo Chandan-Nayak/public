@@ -2,6 +2,8 @@
 title: Competition Demystified
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /competition-demystified
 ---
 
 # Competition Demystified

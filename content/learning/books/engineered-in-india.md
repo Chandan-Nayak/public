@@ -2,6 +2,8 @@
 title: Engineered in India
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /engineered-in-india
 ---
 
 # Engineered in India

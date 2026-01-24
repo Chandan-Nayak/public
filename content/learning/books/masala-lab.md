@@ -2,6 +2,8 @@
 title: Masala Lab
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /masala-lab
 ---
 
 # Masala Lab

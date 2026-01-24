@@ -2,6 +2,8 @@
 title: Artificial Intelligence and The Future of Power
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /artificial-intelligence-and-the-future-of-power
 ---
 
 # Artificial Intelligence and The Future of Power

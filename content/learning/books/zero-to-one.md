@@ -2,6 +2,8 @@
 title: Zero to One
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /zero-to-one
 ---
 
 # Zero to One

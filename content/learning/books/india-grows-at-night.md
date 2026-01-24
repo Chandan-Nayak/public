@@ -2,6 +2,8 @@
 title: India Grows At Night
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /india-grows-at-night
 ---
 
 # India Grows At Night

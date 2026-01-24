@@ -2,6 +2,8 @@
 title: This Is How They Tell Me the World Ends
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /this-is-how-they-tell-me-the-world-ends
 ---
 
 # This Is How They Tell Me the World Ends

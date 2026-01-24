@@ -2,6 +2,8 @@
 title: Material World
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /material-world
 ---
 
 # Material World

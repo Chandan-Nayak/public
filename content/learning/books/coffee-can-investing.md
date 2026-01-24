@@ -2,6 +2,8 @@
 title: Coffee Can Investing
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /coffee-can-investing
 ---
 
 # Coffee Can Investing

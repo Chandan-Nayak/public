@@ -2,6 +2,8 @@
 title: The Myth of Capitalism
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-myth-of-capitalism
 ---
 
 # The Myth of Capitalism

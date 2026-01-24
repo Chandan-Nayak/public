@@ -2,6 +2,8 @@
 title: Grinding It Out
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /grinding-it-out
 ---
 
 # Grinding It Out

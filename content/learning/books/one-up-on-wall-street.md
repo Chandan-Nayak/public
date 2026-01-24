@@ -2,6 +2,8 @@
 title: One Up On Wall Street
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /one-up-on-wall-street
 ---
 
 # One Up On Wall Street

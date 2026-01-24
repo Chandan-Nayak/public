@@ -2,6 +2,8 @@
 title: Life on the Edge
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /life-on-the-edge
 ---
 
 # Life on the Edge

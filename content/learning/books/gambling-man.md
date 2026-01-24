@@ -2,6 +2,8 @@
 title: Gambling Man
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /gambling-man
 ---
 
 # Gambling Man

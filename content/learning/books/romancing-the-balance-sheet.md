@@ -2,6 +2,8 @@
 title: Romancing the Balance Sheet
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /romancing-the-balance-sheet
 ---
 
 # Romancing the Balance Sheet

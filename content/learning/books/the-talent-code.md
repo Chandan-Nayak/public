@@ -2,6 +2,8 @@
 title: The Talent Code
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-talent-code
 ---
 
 # The Talent Code

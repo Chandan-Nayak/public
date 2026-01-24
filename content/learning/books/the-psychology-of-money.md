@@ -2,6 +2,8 @@
 title: The Psychology of Money
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-psychology-of-money
 ---
 
 # The Psychology of Money

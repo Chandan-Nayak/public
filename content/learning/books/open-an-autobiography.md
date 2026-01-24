@@ -2,6 +2,8 @@
 title: Open An Autobiography
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /open-an-autobiography
 ---
 
 # Open An Autobiography

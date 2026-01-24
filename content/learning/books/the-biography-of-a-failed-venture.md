@@ -2,6 +2,8 @@
 title: The Biography of a Failed Venture
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-biography-of-a-failed-venture
 ---
 
 # The Biography of a Failed Venture

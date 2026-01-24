@@ -2,6 +2,8 @@
 title: The Power Law
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-power-law
 ---
 
 # The Power Law

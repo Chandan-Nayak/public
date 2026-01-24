@@ -2,6 +2,8 @@
 title: The Molecule of More
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-molecule-of-more
 ---
 
 # The Molecule of More

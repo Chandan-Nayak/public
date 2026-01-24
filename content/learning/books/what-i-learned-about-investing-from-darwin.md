@@ -2,6 +2,8 @@
 title: What I Learned About Investing from Darwin
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /what-i-learned-about-investing-from-darwin
 ---
 
 # What I Learned About Investing from Darwin

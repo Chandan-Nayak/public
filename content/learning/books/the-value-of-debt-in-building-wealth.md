@@ -2,6 +2,8 @@
 title: The Value of Debt in Building Wealth
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-value-of-debt-in-building-wealth
 ---
 
 # The Value of Debt in Building Wealth

@@ -2,6 +2,8 @@
 title: The Dhandho Investor
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-dhandho-investor
 ---
 
 # The Dhandho Investor

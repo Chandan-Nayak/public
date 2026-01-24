@@ -2,6 +2,8 @@
 title: Shoe Dog
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /shoe-dog
 ---
 
 # Shoe Dog

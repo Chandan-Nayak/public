@@ -2,6 +2,8 @@
 title: Trillion Dollar Coach
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /trillion-dollar-coach
 ---
 
 # Trillion Dollar Coach

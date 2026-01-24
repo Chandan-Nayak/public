@@ -2,6 +2,8 @@
 title: Atomic Habits
 date: 2025-11-15
 tags: [books, habits, self-improvement, productivity]
+aliases:
+  - /atomic-habits
 ---
 
 # Atomic Habits

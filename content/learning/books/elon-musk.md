@@ -2,6 +2,8 @@
 title: Elon Musk
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /elon-musk
 ---
 
 # Elon Musk

@@ -2,6 +2,8 @@
 title: Just Keep Buying
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /just-keep-buying
 ---
 
 # Just Keep Buying

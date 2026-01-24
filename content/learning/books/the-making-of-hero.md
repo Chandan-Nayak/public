@@ -2,6 +2,8 @@
 title: The Making of Hero
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-making-of-hero
 ---
 
 # The Making of Hero

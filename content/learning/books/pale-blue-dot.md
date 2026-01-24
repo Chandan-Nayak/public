@@ -2,6 +2,8 @@
 title: Pale Blue Dot
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /pale-blue-dot
 ---
 
 # Pale Blue Dot

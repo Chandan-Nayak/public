@@ -2,6 +2,8 @@
 title: Talking to My Daughter
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /talking-to-my-daughter
 ---
 
 # Talking to My Daughter

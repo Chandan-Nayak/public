@@ -2,6 +2,8 @@
 title: How to Avoid a Climate Disaster
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /how-to-avoid-a-climate-disaster
 ---
 
 # How to Avoid a Climate Disaster

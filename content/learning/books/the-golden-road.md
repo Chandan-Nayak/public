@@ -2,6 +2,8 @@
 title: The Golden Road
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-golden-road
 ---
 
 # The Golden Road

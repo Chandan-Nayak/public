@@ -2,6 +2,8 @@
 title: The Magic of Reality
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-magic-of-reality
 ---
 
 # The Magic of Reality

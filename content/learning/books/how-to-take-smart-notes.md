@@ -2,6 +2,8 @@
 title: How to Take Smart Notes
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /how-to-take-smart-notes
 ---
 
 # How to Take Smart Notes

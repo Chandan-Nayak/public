@@ -2,6 +2,8 @@
 title: Sapiens
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /sapiens
 ---
 
 # Sapiens

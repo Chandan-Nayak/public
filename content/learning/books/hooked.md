@@ -2,6 +2,8 @@
 title: Hooked
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /hooked
 ---
 
 # Hooked

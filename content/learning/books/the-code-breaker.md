@@ -2,6 +2,8 @@
 title: The Code Breaker
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-code-breaker
 ---
 
 # The Code Breaker

@@ -2,6 +2,8 @@
 title: An Era of Darkness
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /an-era-of-darkness
 ---
 
 # An Era of Darkness

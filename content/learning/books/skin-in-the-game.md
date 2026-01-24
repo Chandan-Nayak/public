@@ -2,6 +2,8 @@
 title: Skin in the Game
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /skin-in-the-game
 ---
 
 # Skin in the Game

@@ -2,6 +2,8 @@
 title: The Money Trap
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-money-trap
 ---
 
 # The Money Trap

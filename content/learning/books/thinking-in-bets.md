@@ -2,6 +2,8 @@
 title: Thinking in Bets
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /thinking-in-bets
 ---
 
 # Thinking in Bets

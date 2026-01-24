@@ -2,6 +2,8 @@
 title: Land of seven rivers
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /land-of-seven-rivers
 ---
 
 # Land of seven rivers

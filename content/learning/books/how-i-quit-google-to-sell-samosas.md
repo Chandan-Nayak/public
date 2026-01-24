@@ -2,6 +2,8 @@
 title: HOW I QUIT GOOGLE TO SELL SAMOSAS
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /how-i-quit-google-to-sell-samosas
 ---
 
 # HOW I QUIT GOOGLE TO SELL SAMOSAS

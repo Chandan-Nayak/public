@@ -2,6 +2,8 @@
 title: The Little Book That Builds Wealth
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-little-book-that-builds-wealth
 ---
 
 # The Little Book That Builds Wealth

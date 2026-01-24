@@ -2,6 +2,8 @@
 title: The AI Factor
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-ai-factor
 ---
 
 # The AI Factor

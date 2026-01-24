@@ -2,6 +2,8 @@
 title: Think Like a Rocket Scientist
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /think-like-a-rocket-scientist
 ---
 
 # Think Like a Rocket Scientist

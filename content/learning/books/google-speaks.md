@@ -2,6 +2,8 @@
 title: Google Speaks
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /google-speaks
 ---
 
 # Google Speaks

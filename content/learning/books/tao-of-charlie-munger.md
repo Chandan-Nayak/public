@@ -2,6 +2,8 @@
 title: Tao of Charlie Munger
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /tao-of-charlie-munger
 ---
 
 # Tao of Charlie Munger

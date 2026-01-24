@@ -2,6 +2,8 @@
 title: My Journey as the Wrong Man at the Right Time
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /my-journey-as-the-wrong-man-at-the-right-time
 ---
 
 # My Journey as the Wrong Man at the Right Time

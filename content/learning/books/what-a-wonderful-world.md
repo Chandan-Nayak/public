@@ -2,6 +2,8 @@
 title: What a Wonderful World
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /what-a-wonderful-world
 ---
 
 # What a Wonderful World

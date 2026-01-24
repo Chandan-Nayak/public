@@ -2,6 +2,8 @@
 title: Clean Code
 date: 2024-11-20
 tags: [books, programming, software-engineering, clean-code]
+aliases:
+  - /clean-code
 ---
 
 # Clean Code

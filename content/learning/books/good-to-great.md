@@ -2,6 +2,8 @@
 title: Good to Great
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /good-to-great
 ---
 
 # Good to Great

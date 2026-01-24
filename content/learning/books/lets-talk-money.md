@@ -2,6 +2,8 @@
 title: Let's Talk Money
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /lets-talk-money
 ---
 
 # Let's Talk Money

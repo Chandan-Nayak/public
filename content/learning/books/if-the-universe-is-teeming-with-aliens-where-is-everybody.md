@@ -2,6 +2,8 @@
 title: If the Universe Is Teeming with Aliens WHERE IS EVERYBODY
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /if-the-universe-is-teeming-with-aliens-where-is-everybody
 ---
 
 # If the Universe Is Teeming with Aliens WHERE IS EVERYBODY

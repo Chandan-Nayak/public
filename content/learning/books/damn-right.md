@@ -2,6 +2,8 @@
 title: Damn Right!
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /damn-right
 ---
 
 # Damn Right!

@@ -2,6 +2,8 @@
 title: The Unusual Billionaires
 date: 2026-01-19
 tags: [books]
+aliases:
+  - /the-unusual-billionaires
 ---
 
 # The Unusual Billionaires

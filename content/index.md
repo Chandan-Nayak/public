@@ -9,14 +9,14 @@ title: Welcome
 
   <div class="hero-actions">
     <a class="btn primary" href="/learning/books">Start with books</a>
-    <a class="btn ghost" href="/learning">Browse technology</a>
+    <a class="btn ghost" href="/learning/mosaic">Browse quotes & models</a>
     <a class="btn text-link" href="/hobbies">See projects →</a>
   </div>
 
   <div class="hero-meta">
     <span class="pill">📚 130+ book notes</span>
-    <span class="pill">🛠 Systems, software, business</span>
-    <span class="pill">☕ Coffee rituals + experiments</span>
+    <span class="pill">💡 Mental models & investment wisdom</span>
+    <span class="pill">🚀 Projects & experiments</span>
   </div>
 </section>
 
@@ -30,17 +30,17 @@ title: Welcome
     <ul>
       <li><a href="/learning/books">Books index</a> by theme and status</li>
       <li><a href="/learning/books">Highlights</a> for fast skimming</li>
-      <li><a href="/learning/coffee">Coffee</a> notes and rituals</li>
+      <li><a href="/learning/books">Reading notes</a> and takeaways</li>
     </ul>
   </div>
   <div class="feature-card">
-    <p class="eyebrow">Technology</p>
-    <h3>Systems and architecture</h3>
-    <p>Working notes on software design, infra, and product thinking.</p>
+    <p class="eyebrow">Mental Models</p>
+    <h3>Thinking tools</h3>
+    <p>Curated mental models, investment quotes, and life wisdom for better decisions.</p>
     <ul>
-      <li><a href="/learning">Tech primers</a> and checklists</li>
-      <li><a href="/learning/technology">Architecture</a> and patterns</li>
-      <li><a href="/learning">Tooling</a> and workflows</li>
+      <li><a href="/learning/mosaic/mental-models">Mental models</a> across disciplines</li>
+      <li><a href="/learning/mosaic/quotes-investment">Investment wisdom</a> from masters</li>
+      <li><a href="/learning/mosaic/quotes-life">Life philosophy</a> and reflections</li>
     </ul>
   </div>
   <div class="feature-card">
@@ -49,8 +49,8 @@ title: Welcome
     <p>Side projects, small bets, and experiments worth shipping.</p>
     <ul>
       <li><a href="/hobbies">Projects</a> and retrospectives</li>
-      <li><a href="/ideas">Ideas</a> in draft form</li>
-      <li><a href="/learning">What I am learning now</a></li>
+      <li><a href="/hobbies">Build logs</a> and lessons learned</li>
+      <li><a href="/hobbies">Experiments</a> in progress</li>
     </ul>
   </div>
 </div>

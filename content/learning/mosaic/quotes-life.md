@@ -74,5 +74,3 @@ A collection of quotes and insights on resilience, personal growth, relationship
 - "No step is small, as long as it is headed in the direction of where we want to go." — **Unknown**
 - "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." — **Albert Einstein**
 - "If knowledge is power, then curiosity is the muscle." — **Unknown**
-
----

@@ -2,47 +2,65 @@
 title: Welcome
 ---
 
-# 👋 Welcome!
+<section class="hero">
+  <p class="eyebrow">Digital garden</p>
+  <h1>Build, learn, ship.</h1>
+  <p class="lede">Notes while exploring software systems, business models, reading widely, and shipping small projects.</p>
 
-I'm Chandan - exploring technology, business, and building things.
+  <div class="hero-actions">
+    <a class="btn primary" href="/learning/books">Start with books</a>
+    <a class="btn ghost" href="/learning">Browse technology</a>
+    <a class="btn text-link" href="/hobbies">See projects →</a>
+  </div>
 
-> [!info] What You'll Find Here
-> A collection of notes from books I've read, things I'm learning, and projects I'm building.
+  <div class="hero-meta">
+    <span class="pill">📚 130+ book notes</span>
+    <span class="pill">🛠 Systems, software, business</span>
+    <span class="pill">☕ Coffee rituals + experiments</span>
+  </div>
+</section>
 
-## 🗂️ Explore
+## Featured paths
 
-<details open>
-<summary><strong>📚 Learning</strong></summary>
+<div class="feature-grid">
+  <div class="feature-card">
+    <p class="eyebrow">Reading</p>
+    <h3>Books, distilled</h3>
+    <p>Marginalia from business, systems, investing, and craft.</p>
+    <ul>
+      <li><a href="/learning/books">Books index</a> by theme and status</li>
+      <li><a href="/learning/books">Highlights</a> for fast skimming</li>
+      <li><a href="/learning/coffee">Coffee</a> notes and rituals</li>
+    </ul>
+  </div>
+  <div class="feature-card">
+    <p class="eyebrow">Technology</p>
+    <h3>Systems and architecture</h3>
+    <p>Working notes on software design, infra, and product thinking.</p>
+    <ul>
+      <li><a href="/learning">Tech primers</a> and checklists</li>
+      <li><a href="/learning/technology">Architecture</a> and patterns</li>
+      <li><a href="/learning">Tooling</a> and workflows</li>
+    </ul>
+  </div>
+  <div class="feature-card">
+    <p class="eyebrow">Projects</p>
+    <h3>Build, test, repeat</h3>
+    <p>Side projects, small bets, and experiments worth shipping.</p>
+    <ul>
+      <li><a href="/hobbies">Projects</a> and retrospectives</li>
+      <li><a href="/ideas">Ideas</a> in draft form</li>
+      <li><a href="/learning">What I am learning now</a></li>
+    </ul>
+  </div>
+</div>
 
-- **[Books](/learning/books)** - 132 books on business, investments, science & more
-- **[Coffee](/learning/coffee)** - Notes on coffee and brewing
-- **[Technology](/learning)** - Software, systems, and architecture
+## Fast lanes
 
-</details>
+<ul class="simple-list">
+  <li><span>Latest annotations</span><a class="btn text-link" href="/learning/books">Open</a></li>
+  <li><span>Architecture primers</span><a class="btn text-link" href="/learning">Open</a></li>
+  <li><span>Build logs</span><a class="btn text-link" href="/hobbies">Open</a></li>
+</ul>
 
-<details>
-<summary><strong>🎯 Hobbies & Projects</strong></summary>
-
-- **[Projects](/hobbies)** - Side projects and experiments
-- Game publishing, web apps, and more
-
-</details>
-
-<details>
-<summary><strong>💡 Ideas</strong></summary>
-
-- **[Thoughts & Experiments](/ideas)** - Work in progress ideas
-
-</details>
-
----
-
-## 🚀 Quick Links
-
-- 🔍 Use **search** above to find specific topics
-- 📂 Browse **sidebar** for organized content  
-- 🌙 Toggle **dark mode** for comfortable reading
-
----
-
-> _This is a digital garden - content grows and evolves over time._
+> _This is a digital garden — expect drafts, revisions, and unfinished edges._

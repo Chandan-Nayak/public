@@ -55,12 +55,5 @@ title: Welcome
   </div>
 </div>
 
-## Fast lanes
-
-<ul class="simple-list">
-  <li><span>Latest annotations</span><a class="btn text-link" href="/learning/books">Open</a></li>
-  <li><span>Architecture primers</span><a class="btn text-link" href="/learning">Open</a></li>
-  <li><span>Build logs</span><a class="btn text-link" href="/hobbies">Open</a></li>
-</ul>
 
 > _This is a digital garden — expect drafts, revisions, and unfinished edges._

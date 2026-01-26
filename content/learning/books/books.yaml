@@ -705,3 +705,9 @@ books:
   status: read
   tags: Quantum Physics, Success, Physics, Self-Help, Science
   note_link: the-quantum-rules
+
+- title: House of Huawei
+  category: business
+  status: pending
+  tags: Technology, Politics, China
+  note_link: the-quantum-rules  

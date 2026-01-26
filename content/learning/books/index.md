@@ -3,14 +3,14 @@ title: Books
 tags: [books, reading]
 ---
 
-> [!tip] 📚 **113 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
-> <div class="book-stats-inline"><span class="stat-item">✅ <strong>83</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>11</strong> Pending</span></div>
+> [!tip] 📚 **114 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
+> <div class="book-stats-inline"><span class="stat-item">✅ <strong>83</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>12</strong> Pending</span></div>
 
 ## 🏷️ Categories
 
 <div class="category-badges">
-  <a href="#unfinished" class="category-badge" data-no-popover="true">📖 Unfinished (14)</a>
-  <a href="#business" class="category-badge" data-no-popover="true">💼 Business & Economics (29)</a>
+  <a href="#unfinished" class="category-badge" data-no-popover="true">📖 Unfinished (15)</a>
+  <a href="#business" class="category-badge" data-no-popover="true">💼 Business & Economics (30)</a>
   <a href="#investments" class="category-badge" data-no-popover="true">📈 Investments (20)</a>
   <a href="#biography" class="category-badge" data-no-popover="true">🎯 Autobiography & Biography (20)</a>
   <a href="#science" class="category-badge" data-no-popover="true">🔬 Science (11)</a>
@@ -26,18 +26,19 @@ tags: [books, reading]
 </div>
 
 <details id="unfinished">
-<summary><strong>📖 Unfinished (14 books)</strong></summary>
+<summary><strong>📖 Unfinished (15 books)</strong></summary>
 
 ### In Progress (3)
 - [The Golden Road](the-golden-road) <span class="book-tag" data-tag="History">History</span>
 - [The Kill Chain](the-kill-chain) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="science">science</span>
 - [The Ride of a Lifetime](the-ride-of-a-lifetime) <span class="book-tag" data-tag="Autobiography">Autobiography</span>
 
-### Pending (11)
+### Pending (12)
 - [Engineered in India](engineered-in-india) <span class="book-tag" data-tag="Business-&-Economics">Business-&-Economics</span>
 - [Fooled by Randomness](fooled-by-randomness) <span class="book-tag" data-tag="Investments">Investments</span>
 - [Grand Transitions](grand-transitions) <span class="book-tag" data-tag="Science">Science</span>
 - [Half - Lion](half-lion) <span class="book-tag" data-tag="Biography">Biography</span>
+- [House of Huawei](the-quantum-rules) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="Politics">Politics</span> <span class="book-tag" data-tag="China">China</span> _(secondary)_
 - [If the Universe Is Teeming with Aliens WHERE IS EVERYBODY](if-the-universe-is-teeming-with-aliens-where-is-everybody) <span class="book-tag" data-tag="Science">Science</span>
 - [Indica](indica) <span class="book-tag" data-tag="History">History</span>
 - [Pale Blue Dot](pale-blue-dot) <span class="book-tag" data-tag="Science">Science</span>
@@ -49,7 +50,7 @@ tags: [books, reading]
 </details>
 
 <details id="business">
-<summary data-no-popover="true"><strong>💼 Business & Economics (29 books)</strong></summary>
+<summary data-no-popover="true"><strong>💼 Business & Economics (30 books)</strong></summary>
 
 **READ (26):**
 - [Alibaba](alibaba) <span class="book-tag" data-tag="Business">Business</span> <span class="book-tag" data-tag="E-commerce">E-commerce</span> <span class="book-tag" data-tag="China">China</span> <span class="book-tag" data-tag="Entrepreneurship">Entrepreneurship</span> <span class="book-tag" data-tag="Jack-Ma">Jack-Ma</span>
@@ -83,6 +84,9 @@ tags: [books, reading]
 - [Bezonomics](bezonomics) <span class="book-tag" data-tag="Business">Business</span> <span class="book-tag" data-tag="Amazon">Amazon</span> <span class="book-tag" data-tag="Jeff-Bezos">Jeff-Bezos</span> <span class="book-tag" data-tag="E-commerce">E-commerce</span> <span class="book-tag" data-tag="Technology">Technology</span>
 - [Damn Right!](damn-right) <span class="book-tag" data-tag="Investing">Investing</span> <span class="book-tag" data-tag="Biography">Biography</span> <span class="book-tag" data-tag="Charlie-Munger">Charlie-Munger</span> <span class="book-tag" data-tag="Wisdom">Wisdom</span> <span class="book-tag" data-tag="Business">Business</span>
 - [Good to Great](good-to-great) <span class="book-tag" data-tag="Business">Business</span> <span class="book-tag" data-tag="Management">Management</span> <span class="book-tag" data-tag="Leadership">Leadership</span> <span class="book-tag" data-tag="Strategy">Strategy</span> <span class="book-tag" data-tag="Corporate-Success">Corporate-Success</span>
+
+**PENDING (1):**
+- [House of Huawei](the-quantum-rules) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="Politics">Politics</span> <span class="book-tag" data-tag="China">China</span>
 
 </details>
 

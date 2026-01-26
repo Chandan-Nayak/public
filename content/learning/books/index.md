@@ -38,7 +38,7 @@ tags: [books, reading]
 - [Fooled by Randomness](fooled-by-randomness) <span class="book-tag" data-tag="Investments">Investments</span>
 - [Grand Transitions](grand-transitions) <span class="book-tag" data-tag="Science">Science</span>
 - [Half - Lion](half-lion) <span class="book-tag" data-tag="Biography">Biography</span>
-- [House of Huawei](the-quantum-rules) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="Politics">Politics</span> <span class="book-tag" data-tag="China">China</span> _(secondary)_
+- [House of Huawei](house-of-huawei) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="Politics">Politics</span> <span class="book-tag" data-tag="China">China</span> _(secondary)_
 - [If the Universe Is Teeming with Aliens WHERE IS EVERYBODY](if-the-universe-is-teeming-with-aliens-where-is-everybody) <span class="book-tag" data-tag="Science">Science</span>
 - [Indica](indica) <span class="book-tag" data-tag="History">History</span>
 - [Pale Blue Dot](pale-blue-dot) <span class="book-tag" data-tag="Science">Science</span>
@@ -86,7 +86,7 @@ tags: [books, reading]
 - [Good to Great](good-to-great) <span class="book-tag" data-tag="Business">Business</span> <span class="book-tag" data-tag="Management">Management</span> <span class="book-tag" data-tag="Leadership">Leadership</span> <span class="book-tag" data-tag="Strategy">Strategy</span> <span class="book-tag" data-tag="Corporate-Success">Corporate-Success</span>
 
 **PENDING (1):**
-- [House of Huawei](the-quantum-rules) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="Politics">Politics</span> <span class="book-tag" data-tag="China">China</span>
+- [House of Huawei](house-of-huawei) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="Politics">Politics</span> <span class="book-tag" data-tag="China">China</span>
 
 </details>
 

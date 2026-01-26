@@ -36,9 +36,8 @@
       }
       .pages {
         width: 100%;
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 0.75rem;
+        margin: 0;
+        padding: 0;
       }
       .page {
         width: 100%;
@@ -61,6 +60,7 @@
 
       const qs = new URLSearchParams(location.search);
       const fileUrl = qs.get('file') || '/static/resume.pdf';
+      const zoomParam = parseFloat(qs.get('zoom') || '1');
       let pdfDoc = null;
       let scale = 1.0; // base scale before fit-to-width calculation
       let baseViewportWidth = null; // will be set from first page
@@ -92,7 +92,7 @@
         }
         const containerWidth = document.querySelector('.pages').clientWidth;
         const fitWidthScale = containerWidth / baseViewportWidth;
-        const viewport = page.getViewport({ scale: fitWidthScale * scale });
+        const viewport = page.getViewport({ scale: fitWidthScale * scale * zoomParam });
 
         canvas.width = Math.floor(viewport.width);
         canvas.height = Math.floor(viewport.height);

@@ -8,7 +8,7 @@ og:
 
 <div class="resume-container">
   <div class="resume-frame">
-    <embed src="/static/resume.pdf#view=FitH" type="application/pdf" title="Resume PDF" />
+    <embed src="/static/resume.pdf#view=FitH&toolbar=0" type="application/pdf" title="Resume PDF" />
   </div>
   
   <div class="resume-actions" style="display: flex; justify-content: center; gap: 1rem; padding: 2rem 0;">

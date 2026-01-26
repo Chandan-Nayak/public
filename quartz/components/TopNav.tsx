@@ -31,6 +31,7 @@ const TopNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       <div class="nav-actions">
         <a class="btn primary" href="/learning/books">Start with books</a>
         <a class="btn ghost" href="/learning">Latest learning</a>
+        <a class="btn ghost" href="/resume">Resume</a>
       </div>
     </nav>
   )

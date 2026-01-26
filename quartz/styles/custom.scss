@@ -921,10 +921,11 @@ body[data-slug="learning/books/index"] .page-listing {
   
   iframe {
     width: 100%;
-    height: auto;
-    aspect-ratio: 8.5 / 11;
+    height: 600px;
     border: none;
     display: block;
+    object-fit: contain;
+    object-position: center;
   }
 }
 

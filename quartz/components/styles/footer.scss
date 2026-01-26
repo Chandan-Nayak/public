@@ -3,6 +3,19 @@ footer {
   margin-bottom: 4rem;
   opacity: 0.7;
 
+  .footer-date {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--lightgray);
+    font-size: 0.9rem;
+    color: var(--darkgray);
+
+    time {
+      font-weight: 600;
+      color: var(--dark);
+    }
+  }
+
   & ul {
     list-style: none;
     margin: 0;

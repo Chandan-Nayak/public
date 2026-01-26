@@ -18,22 +18,9 @@
         color: var(--fg);
       }
       .toolbar {
-        position: sticky;
-        top: 0;
-        z-index: 10;
-        display: flex;
-        gap: 0.5rem;
-        align-items: center;
-        padding: 0.5rem 0.75rem;
-        background: var(--toolbar-bg);
-        border-bottom: 1px solid var(--toolbar-border);
+        display: none !important;
       }
-      .toolbar button {
-        padding: 0.4rem 0.6rem;
-        border: 1px solid var(--toolbar-border);
-        background: white;
-        border-radius: 6px;
-      }
+      .toolbar button { display: none; }
       .pages {
         width: 100%;
         margin: 0;
@@ -60,7 +47,8 @@
 
       const qs = new URLSearchParams(location.search);
       const fileUrl = qs.get('file') || '/static/resume.pdf';
-      const zoomParam = parseFloat(qs.get('zoom') || '1');
+      const zoomParam = parseFloat(qs.get('zoom') || '1.35');
+      const showToolbar = qs.get('toolbar') !== '0';
       let pdfDoc = null;
       let scale = 1.0; // base scale before fit-to-width calculation
       let baseViewportWidth = null; // will be set from first page
@@ -120,9 +108,13 @@
       });
 
       window.addEventListener('DOMContentLoaded', () => {
-        document.getElementById('zoomIn').addEventListener('click', zoomIn);
-        document.getElementById('zoomOut').addEventListener('click', zoomOut);
-        document.getElementById('resetZoom').addEventListener('click', resetZoom);
+        if (!showToolbar) {
+          const tb = document.querySelector('.toolbar');
+          if (tb) tb.style.display = 'none';
+        }
+        document.getElementById('zoomIn')?.addEventListener('click', zoomIn);
+        document.getElementById('zoomOut')?.addEventListener('click', zoomOut);
+        document.getElementById('resetZoom')?.addEventListener('click', resetZoom);
         loadPdf().catch(err => {
           console.error('Failed to load PDF:', err);
           const container = document.querySelector('.pages');

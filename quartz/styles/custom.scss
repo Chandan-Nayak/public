@@ -921,7 +921,8 @@ body[data-slug="learning/books/index"] .page-listing {
   
   iframe {
     width: 100%;
-    height: 900px;
+    height: auto;
+    aspect-ratio: 8.5 / 11;
     border: none;
     display: block;
   }
@@ -929,6 +930,6 @@ body[data-slug="learning/books/index"] .page-listing {
 
 @media #{$mobile} {
   .resume-frame iframe {
-    height: 600px;
+    aspect-ratio: 8.5 / 11;
   }
 }

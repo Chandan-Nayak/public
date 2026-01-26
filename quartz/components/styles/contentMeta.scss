@@ -1,6 +1,24 @@
-.content-meta {
-  margin-top: 0;
+.content-meta-date {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 1rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-left: 3px solid var(--lightgray);
+  border-radius: 4px;
+  font-size: 0.95rem;
+  font-weight: 500;
   color: var(--darkgray);
+
+  time {
+    font-weight: 600;
+    color: var(--dark);
+  }
+}
+
+.content-meta {
+  margin-top: 0.5rem;
+  color: var(--darkgray);
+  font-size: 0.9rem;
 
   &[show-comma="true"] {
     > *:not(:last-child) {

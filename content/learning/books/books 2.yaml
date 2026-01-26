@@ -1,0 +1,707 @@
+categories:
+  unfinished:
+    display: Unfinished
+    emoji: 📖
+    order: 1
+  business:
+    display: Business & Economics
+    emoji: 💼
+    order: 2
+  investments:
+    display: Investments
+    emoji: 📈
+    order: 3
+  biography:
+    display: Autobiography & Biography
+    emoji: 🎯
+    order: 4
+  science:
+    display: Science
+    emoji: 🔬
+    order: 5
+  selfhelp:
+    display: Self-Help & Social Science
+    emoji: 🧠
+    order: 6
+  other:
+    display: History, Computer Science & Other
+    emoji: 📚
+    order: 7
+books:
+- title: The Kill Chain
+  category: unfinished, science
+  status: in-progress
+  tags: Technology, science
+  note_link: the-kill-chain
+
+- title: Engineered in India
+  category: unfinished
+  status: pending
+  tags: Business & Economics
+  note_link: engineered-in-india
+
+- title: Half - Lion
+  category: unfinished
+  status: pending
+  tags: Biography
+  note_link: half-lion
+
+- title: This Is How They Tell Me the World Ends
+  category: unfinished
+  status: pending
+  tags: Science
+  note_link: this-is-how-they-tell-me-the-world-ends
+
+- title: Fooled by Randomness
+  category: unfinished
+  status: pending
+  tags: Investments
+  note_link: fooled-by-randomness
+
+- title: Grand Transitions
+  category: unfinished
+  status: pending
+  tags: Science
+  note_link: grand-transitions
+
+- title: Grinding It Out
+  category: business
+  status: read
+  tags: Business, Entrepreneurship, McDonald's, Biography
+  note_link: grinding-it-out
+
+- title: If the Universe Is Teeming with Aliens WHERE IS EVERYBODY
+  category: unfinished
+  status: pending
+  tags: Science
+  note_link: if-the-universe-is-teeming-with-aliens-where-is-everybody
+
+- title: Indica
+  category: unfinished
+  status: pending
+  tags: History
+  note_link: indica
+
+- title: Pale Blue Dot
+  category: unfinished
+  status: pending
+  tags: Science
+  note_link: pale-blue-dot
+
+- title: The Fabric of Reality
+  category: unfinished
+  status: pending
+  tags: Science
+  note_link: the-fabric-of-reality
+
+- title: The Golden Road
+  category: unfinished
+  status: in-progress
+  tags: History
+  note_link: the-golden-road
+
+- title: The Ride of a Lifetime
+  category: unfinished
+  status: in-progress
+  tags: Autobiography
+  note_link: the-ride-of-a-lifetime
+
+- title: Thinking in Systems
+  category: unfinished
+  status: pending
+  tags: Science
+  note_link: thinking-in-systems
+
+- title: When McKinsey Comes to Town
+  category: unfinished
+  status: pending
+  tags: Business, Economics
+  note_link: when-mckinsey-comes-to-town
+
+- title: Alibaba
+  category: business
+  status: read
+  tags: Business, E-commerce, China, Entrepreneurship, Jack Ma
+  note_link: alibaba
+
+- title: Big Billion Startup
+  category: business
+  status: read
+  tags: Business, E-commerce, India, Startups, Flipkart
+  note_link: big-billion-startup
+
+- title: Blitzscaling
+  category: business
+  status: read
+  tags: Business, Growth, Startups, Strategy, Silicon Valley
+  note_link: blitzscaling
+
+- title: Capitalism without Capital
+  category: business
+  status: read
+  tags: Economics, Intangible Assets, Business, Innovation
+  note_link: capitalism-without-capital
+
+- title: Competition Demystified
+  category: business
+  status: read
+  tags: Business, Strategy, Competitive Advantage, Economics
+  note_link: competition-demystified
+
+- title: HDFC Bank 20
+  category: business
+  status: read
+  tags: Business, Banking, India, Finance
+  note_link: hdfc-bank-20
+
+- title: How Big Things Get Done
+  category: business
+  status: read
+  tags: Business, Project Management, Strategy, Leadership
+  note_link: how-big-things-get-done
+
+- title: Loonshots
+  category: business
+  status: read
+  tags: Business, Innovation, Strategy, Entrepreneurship, Science
+  note_link: loonshots
+
+- title: Material World
+  category: science
+  status: read
+  tags: Science, Materials, Technology, Engineering, Resources
+  note_link: material-world
+
+- title: No Rules Rules
+  category: business
+  status: read
+  tags: Business, Management, Netflix, Culture, Leadership
+  note_link: no-rules-rules
+
+- title: Reset
+  category: business
+  status: read
+  tags: Business, Leadership, Strategy, Change Management
+  note_link: reset
+
+- title: Romancing the Balance Sheet
+  category: business
+  status: read
+  tags: Finance, Accounting, Business, Financial Analysis
+  note_link: romancing-the-balance-sheet
+
+- title: Skin in the Game
+  category: business, selfhelp
+  status: read
+  tags: Risk, Philosophy, Decision Making, Nassim Taleb, Ethics
+  note_link: skin-in-the-game
+
+- title: Talking to My Daughter
+  category: business
+  status: read
+  tags: Economics, Philosophy, Politics, Education, Social Issues
+  note_link: talking-to-my-daughter
+
+- title: Tao of Charlie Munger
+  category: business
+  status: read
+  tags: Investing, Wisdom, Business, Charlie Munger, Philosophy
+  note_link: tao-of-charlie-munger
+
+- title: The Goal
+  category: business
+  status: read
+  tags: Business, Operations, Manufacturing, Theory of Constraints, Management
+  note_link: the-goal
+
+- title: The Hard Thing About Hard Things
+  category: business
+  status: read
+  tags: Business, Entrepreneurship, Leadership, Startups, Management
+  note_link: the-hard-thing-about-hard-things
+
+- title: The Myth of Capitalism
+  category: business
+  status: read
+  tags: Economics, Capitalism, Monopolies, Politics, Business
+  note_link: the-myth-of-capitalism
+
+- title: The Nvidia Way
+  category: business
+  status: read
+  tags: Business, Technology, AI, Semiconductors, Nvidia, Leadership
+  note_link: the-nvidia-way
+
+- title: The Tata Group
+  category: business
+  status: read
+  tags: Business, India, Conglomerates, History, Leadership
+  note_link: the-tata-group
+
+- title: The Value of Debt in Building Wealth
+  category: business
+  status: read
+  tags: Finance, Personal Finance, Debt, Wealth Management, Investing
+  note_link: the-value-of-debt-in-building-wealth
+
+- title: Think Again
+  category: business
+  status: read
+  tags: Self-Help, Psychology, Critical Thinking, Decision Making
+  note_link: think-again
+
+- title: Think Like a Rocket Scientist
+  category: business
+  status: read
+  tags: Science, Problem Solving, Innovation, Critical Thinking, Strategy
+  note_link: think-like-a-rocket-scientist
+
+- title: Thinking in Bets
+  category: business
+  status: read
+  tags: Decision Making, Probability, Risk, Psychology, Poker
+  note_link: thinking-in-bets
+
+- title: What I Learned About Investing from Darwin
+  category: business
+  status: read
+  tags: Investing, Evolution, Biology, Science, Strategy
+  note_link: what-i-learned-about-investing-from-darwin
+
+- title: Zero to One
+  category: business
+  status: read
+  tags: Startups, Entrepreneurship, Innovation, Technology, Peter Thiel
+  note_link: zero-to-one
+
+- title: Bezonomics
+  category: business
+  status: skimmed
+  tags: Business, Amazon, Jeff Bezos, E-commerce, Technology
+  note_link: bezonomics
+
+- title: Damn Right!
+  category: business
+  status: skimmed
+  tags: Investing, Biography, Charlie Munger, Wisdom, Business
+  note_link: damn-right
+
+- title: Good to Great
+  category: business
+  status: skimmed
+  tags: Business, Management, Leadership, Strategy, Corporate Success
+  note_link: good-to-great
+
+- title: 100 to 1 in the Stock Market
+  category: investments
+  status: read
+  tags: Investing, Stock Market, Growth Stocks, Finance, Strategy
+  note_link: 100-to-1-in-the-stock-market
+
+- title: A Wealth of Common Sense
+  category: investments
+  status: read
+  tags: Investing, Personal Finance, Wealth Management, Common Sense
+  note_link: a-wealth-of-common-sense
+
+- title: Bulls Bears and Other Beasts
+  category: investments
+  status: read
+  tags: Investing, Stock Market, India, Finance, Market Psychology
+  note_link: bulls-bears-and-other-beasts
+
+- title: Common Stocks and Uncommon Profits
+  category: investments
+  status: read
+  tags: Investing, Stock Market, Growth Investing, Philip Fisher, Finance
+  note_link: common-stocks-and-uncommon-profits
+
+- title: Just Keep Buying
+  category: investments
+  status: read
+  tags: Investing, Personal Finance, Wealth Building, Passive Investing
+  note_link: just-keep-buying
+
+- title: Let's Talk Money
+  category: investments
+  status: read
+  tags: Personal Finance, Investing, India, Financial Planning, Wealth Management
+  note_link: lets-talk-money
+
+- title: One Up On Wall Street
+  category: investments
+  status: read
+  tags: Investing, Stock Market, Peter Lynch, Finance, Growth Stocks
+  note_link: one-up-on-wall-street
+
+- title: Richer Wiser Happier
+  category: investments
+  status: read
+  tags: Investing, Wisdom, Wealth, Philosophy, Investor Profiles
+  note_link: richer-wiser-happier
+
+- title: The Dhandho Investor
+  category: investments
+  status: read
+  tags: Investing, Value Investing, Low Risk, High Return, Strategy
+  note_link: the-dhandho-investor
+
+- title: The Little Book That Builds Wealth
+  category: investments
+  status: read
+  tags: Investing, Moats, Competitive Advantage, Stock Market, Finance
+  note_link: the-little-book-that-builds-wealth
+
+- title: The Little Book That Still Beats the Market
+  category: investments
+  status: read
+  tags: Investing, Value Investing, Magic Formula, Stock Market, Finance
+  note_link: the-little-book-that-still-beats-the-market
+
+- title: The Power Law
+  category: investments
+  status: read
+  tags: Venture Capital, Silicon Valley, Investing, Startups, Finance
+  note_link: the-power-law
+
+- title: The Psychology of Money
+  category: investments
+  status: read
+  tags: Personal Finance, Investing, Behavioral Finance, Psychology, Wealth
+  note_link: the-psychology-of-money
+
+- title: The Richest Man in Babylon
+  category: investments
+  status: read
+  tags: Personal Finance, Wealth Building, Classic, Financial Wisdom, Savings
+  note_link: the-richest-man-in-babylon
+
+- title: The Unusual Billionaires
+  category: investments
+  status: read
+  tags: Investing, India, Billionaires, Business, Wealth Creation
+  note_link: the-unusual-billionaires
+
+- title: Warren Buffett Speaks
+  category: investments
+  status: read
+  tags: Investing, Warren Buffett, Wisdom, Value Investing, Finance
+  note_link: warren-buffett-speaks
+
+- title: Coffee Can Investing
+  category: investments
+  status: skimmed
+  tags: Investing, Long-term Investing, India, Stock Market, Strategy
+  note_link: coffee-can-investing
+
+- title: MONEY Master the Game
+  category: investments
+  status: skimmed
+  tags: Personal Finance, Investing, Wealth Building, Tony Robbins, Financial Freedom
+  note_link: money-master-the-game
+
+- title: Money Wise
+  category: investments
+  status: skimmed
+  tags: Personal Finance, Investing, India, Financial Planning, Wealth
+  note_link: money-wise
+
+- title: More Than You Know
+  category: investments
+  status: skimmed
+  tags: Investing, Psychology, Decision Making, Finance, Market Wisdom
+  note_link: more-than-you-know
+
+- title: HOW I QUIT GOOGLE TO SELL SAMOSAS
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: how-i-quit-google-to-sell-samosas
+
+- title: IWoz
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: iwoz
+
+- title: Losing My Virginity
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: losing-my-virginity
+
+- title: My Journey as the Wrong Man at the Right Time
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: my-journey-as-the-wrong-man-at-the-right-time
+
+- title: Open An Autobiography
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: open-an-autobiography
+
+- title: Shoe Dog
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: shoe-dog
+
+- title: The Autobiography of Benjamin Franklin
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: the-autobiography-of-benjamin-franklin
+
+- title: The Biography of a Failed Venture
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: the-biography-of-a-failed-venture
+
+- title: The Making of Hero
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: the-making-of-hero
+
+- title: The Money Trap
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: the-money-trap
+
+- title: The Z Factor
+  category: biography
+  status: read
+  tags: Autobiography
+  note_link: the-z-factor
+
+- title: The Ambuja Story
+  category: biography
+  status: skimmed
+  tags: Autobiography
+  note_link: the-ambuja-story
+
+- title: Think Lead Strategize Like Kumar Mangalam Birla
+  category: biography
+  status: skimmed
+  tags: Autobiography
+  note_link: think-lead-strategize-like-kumar-mangalam-birla
+
+- title: Elon Musk
+  category: biography
+  status: read
+  tags: Biography
+  note_link: elon-musk
+
+- title: Gambling Man
+  category: biography
+  status: read
+  tags: Biography, Investing, Hedge Funds, Rakesh Jhunjhunwala
+  note_link: gambling-man
+
+- title: Google Speaks
+  category: biography
+  status: read
+  tags: Biography
+  note_link: google-speaks
+
+- title: Samsung Rising
+  category: biography
+  status: read
+  tags: Biography
+  note_link: samsung-rising
+
+- title: TITAN
+  category: biography
+  status: read
+  tags: Biography
+  note_link: titan
+
+- title: Trillion Dollar Coach
+  category: biography
+  status: read
+  tags: Biography
+  note_link: trillion-dollar-coach
+
+- title: Who Says Elephants Can't Dance
+  category: biography
+  status: read
+  tags: Biography
+  note_link: who-says-elephants-cant-dance
+
+- title: Factfulness
+  category: science
+  status: read
+  tags: Science, Statistics, Global Development, Critical Thinking, Data
+  note_link: factfulness
+
+- title: How to Avoid a Climate Disaster
+  category: science
+  status: read
+  tags: Climate Change, Environment, Science, Bill Gates, Sustainability
+  note_link: how-to-avoid-a-climate-disaster
+
+- title: Life on the Edge
+  category: science
+  status: read
+  tags: Quantum Biology, Physics, Biology, Science, Quantum Mechanics
+  note_link: life-on-the-edge
+
+- title: Scale
+  category: science
+  status: read
+  tags: Science, Biology, Physics, Cities, Scaling Laws, Complexity
+  note_link: scale
+
+- title: The Code Breaker
+  category: science
+  status: read
+  tags: Science, CRISPR, Genetics, Biology, Jennifer Doudna, Biography
+  note_link: the-code-breaker
+
+- title: What a Wonderful World
+  category: science
+  status: read
+  tags: Science, Biology, Physics, Chemistry, Nature, Popular Science
+  note_link: what-a-wonderful-world
+
+- title: Why We Sleep
+  category: science
+  status: read
+  tags: Science, Sleep, Health, Neuroscience, Biology
+  note_link: why-we-sleep
+
+- title: The Brain
+  category: science
+  status: skimmed
+  tags: Neuroscience, Brain, Science, Psychology, Biology
+  note_link: the-brain
+
+- title: The Magic of Reality
+  category: science
+  status: skimmed
+  tags: Science, Richard Dawkins, Evolution, Physics, Nature, Popular Science
+  note_link: the-magic-of-reality
+
+- title: Atomic Habits
+  category: selfhelp
+  status: read
+  tags: Self-Help
+  note_link: atomic-habits
+
+- title: How to Take Smart Notes
+  category: selfhelp
+  status: read
+  tags: Self-Help
+  note_link: how-to-take-smart-notes
+
+- title: Range
+  category: selfhelp
+  status: read
+  tags: Self-Help
+  note_link: range
+
+- title: Same as Ever
+  category: selfhelp
+  status: read
+  tags: Self-Help
+  note_link: same-as-ever
+
+- title: The Talent Code
+  category: selfhelp
+  status: read
+  tags: Self-Help
+  note_link: the-talent-code
+
+- title: Advantage India
+  category: selfhelp
+  status: read
+  tags: Social Science
+  note_link: advantage-india
+
+- title: Hooked
+  category: selfhelp
+  status: read
+  tags: Social Science
+  note_link: hooked
+
+- title: Superforecasting
+  category: selfhelp
+  status: read
+  tags: Social Science
+  note_link: superforecasting
+
+- title: The Molecule of More
+  category: selfhelp
+  status: skimmed
+  tags: Social Science
+  note_link: the-molecule-of-more
+
+- title: Land of seven rivers
+  category: other
+  status: read
+  tags: History, India, Ancient History, Civilization
+  note_link: land-of-seven-rivers
+
+- title: Sapiens
+  category: other
+  status: read
+  tags: History, Anthropology, Human Evolution, Science, Philosophy
+  note_link: sapiens
+
+- title: An Era of Darkness
+  category: other
+  status: skimmed
+  tags: History, British Empire, India, Colonialism, Politics
+  note_link: an-era-of-darkness
+
+- title: Artificial Intelligence and The Future of Power
+  category: other
+  status: skimmed
+  tags: Artificial Intelligence, Technology, Future, Politics, Power
+  note_link: artificial-intelligence-and-the-future-of-power
+
+- title: The AI Factor
+  category: other
+  status: skimmed
+  tags: Artificial Intelligence, Technology, Business, India, Innovation
+  note_link: the-ai-factor
+
+- title: Exercised
+  category: other
+  status: read
+  tags: Health, Fitness, Exercise, Evolution, Science
+  note_link: exercised
+
+- title: Outlive
+  category: other
+  status: read
+  tags: Health, Longevity, Medicine, Science, Fitness
+  note_link: outlive
+
+- title: Masala Lab
+  category: other
+  status: read
+  tags: Food, Science, Cooking, India, Chemistry
+  note_link: masala-lab
+
+- title: Where Does Money Come From
+  category: other
+  status: read
+  tags: Economics, Banking, Money, Finance, Monetary System
+  note_link: where-does-money-come-from
+
+- title: India Grows At Night
+  category: other
+  status: skimmed
+  tags: India, Politics, Economics, Governance, Society
+  note_link: india-grows-at-night
+
+- title: The Quantum Rules
+  category: science
+  status: read
+  tags: Quantum Physics, Success, Physics, Self-Help, Science
+  note_link: the-quantum-rules

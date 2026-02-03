@@ -710,4 +710,10 @@ books:
   category: unfinished
   status: pending
   tags: Business, Technology
-  note_link: house-of-huawei  
+  note_link: house-of-huawei
+
+- title: Maxims for Thinking Analytically
+  category: unfinished
+  status: pending
+  tags: Psychology, Philosophy
+  note_link: maxims-for-thinking-analytically

@@ -3,13 +3,13 @@ title: Books
 tags: [books, reading]
 ---
 
-> [!tip] 📚 **114 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
-> <div class="book-stats-inline"><span class="stat-item">✅ <strong>83</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>12</strong> Pending</span></div>
+> [!tip] 📚 **115 Books** — *Reading is dreaming with open eyes — where thoughts fly and minds grow*
+> <div class="book-stats-inline"><span class="stat-item">✅ <strong>83</strong> Read</span><span class="stat-divider">•</span><span class="stat-item">📖 <strong>16</strong> Skimmed</span><span class="stat-divider">•</span><span class="stat-item">🔄 <strong>3</strong> In Progress</span><span class="stat-divider">•</span><span class="stat-item">⏳ <strong>13</strong> Pending</span></div>
 
 ## 🏷️ Categories
 
 <div class="category-badges">
-  <a href="#unfinished" class="category-badge" data-no-popover="true">📖 Unfinished (15)</a>
+  <a href="#unfinished" class="category-badge" data-no-popover="true">📖 Unfinished (16)</a>
   <a href="#business" class="category-badge" data-no-popover="true">💼 Business & Economics (29)</a>
   <a href="#investments" class="category-badge" data-no-popover="true">📈 Investments (20)</a>
   <a href="#biography" class="category-badge" data-no-popover="true">🎯 Autobiography & Biography (20)</a>
@@ -26,14 +26,14 @@ tags: [books, reading]
 </div>
 
 <details id="unfinished">
-<summary><strong>📖 Unfinished (15 books)</strong></summary>
+<summary><strong>📖 Unfinished (16 books)</strong></summary>
 
 ### In Progress (3)
 - [The Golden Road](the-golden-road) <span class="book-tag" data-tag="History">History</span>
 - [The Kill Chain](the-kill-chain) <span class="book-tag" data-tag="Technology">Technology</span> <span class="book-tag" data-tag="science">science</span>
 - [The Ride of a Lifetime](the-ride-of-a-lifetime) <span class="book-tag" data-tag="Autobiography">Autobiography</span>
 
-### Pending (12)
+### Pending (13)
 - [Engineered in India](engineered-in-india) <span class="book-tag" data-tag="Business-&-Economics">Business-&-Economics</span>
 - [Fooled by Randomness](fooled-by-randomness) <span class="book-tag" data-tag="Investments">Investments</span>
 - [Grand Transitions](grand-transitions) <span class="book-tag" data-tag="Science">Science</span>
@@ -41,6 +41,7 @@ tags: [books, reading]
 - [House of Huawei](house-of-huawei) <span class="book-tag" data-tag="Business">Business</span> <span class="book-tag" data-tag="Technology">Technology</span>
 - [If the Universe Is Teeming with Aliens WHERE IS EVERYBODY](if-the-universe-is-teeming-with-aliens-where-is-everybody) <span class="book-tag" data-tag="Science">Science</span>
 - [Indica](indica) <span class="book-tag" data-tag="History">History</span>
+- [Maxims for Thinking Analytically](maxims-for-thinking-analytically) <span class="book-tag" data-tag="Psychology">Psychology</span> <span class="book-tag" data-tag="Philosophy">Philosophy</span>
 - [Pale Blue Dot](pale-blue-dot) <span class="book-tag" data-tag="Science">Science</span>
 - [The Fabric of Reality](the-fabric-of-reality) <span class="book-tag" data-tag="Science">Science</span>
 - [Thinking in Systems](thinking-in-systems) <span class="book-tag" data-tag="Science">Science</span>

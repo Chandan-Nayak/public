@@ -8,8 +8,8 @@ aliases:
 
 # How We Learn
 
-**Author:** Benedict Carey  
-**Finished:** February 15, 2026  
+**Author:** Stanislas Dehaene 
+**Finished:** 
 **Rating:** ⭐⭐⭐⭐  
 **Genre:** Psychology, Education
 

@@ -8,8 +8,8 @@ aliases:
 
 # How We Learn
 
-**Author:** Stanislas Dehaene 
-**Finished:** 
+**Author:** Stanislas Dehaene
+**Finished:**   
 **Rating:** ⭐⭐⭐⭐  
 **Genre:** Psychology, Education
 
